@@ -16,6 +16,4 @@ Writing to Google Spreadsheets
 python main.py
 
 # To install the project dependencies, you can use `pip`. Ensure you have Python installed on your machine.
-
-```bash
 pip install -r requirements.txt
