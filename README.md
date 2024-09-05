@@ -10,8 +10,10 @@ Data formatting
 Writing to Google Spreadsheets
 
 
-# USAGE - python main.py
+# USAGE 
 
+```bash
+python main.py
 
 # To install the project dependencies, you can use `pip`. Ensure you have Python installed on your machine.
 
