@@ -1,13 +1,14 @@
-from scrapper import Scrapper
+from Telegram.scrapper import Scrapper
 import json
-from writespreadsheet import addItemsToSpreadSheet
-from sheetformat import formatTheWorksheet
-with open('categories.json', 'r') as file:
+from Telegram.writespreadsheet import addItemsToSpreadSheet
+from Telegram.sheetformat import formatTheWorksheet
+with open('Telegram/categories.json', 'r') as file:
     data = json.load(file)
 
 
 if __name__== '__main__':
 
+    #TG SCRAP PROCESS
     if data:
         for category, cat_link in data['categories'].items():
             

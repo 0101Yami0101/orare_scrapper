@@ -3,6 +3,9 @@ from oauth2client.service_account import ServiceAccountCredentials
 from gspread_formatting import *
 import time
 
+
+sheetname= "banana"
+worksheet= "tg"
 # Auth
 def authorize_google_sheet():
     scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/drive']
@@ -16,16 +19,17 @@ def addItemsToSpreadSheet(category, links_and_subs):
     Function to add category - links - subscribers to spreadsheet
     """
     client = authorize_google_sheet()
-
+    print("Here")
     # Open/Create a new spreadsheet
-    spreadsheet_name = "banana"
+    spreadsheet_name = sheetname
+    print(spreadsheet_name)
     try:
         spreadsheet = client.open(spreadsheet_name)
     except gspread.exceptions.SpreadsheetNotFound:
         spreadsheet = client.create(spreadsheet_name)
 
     # Select/Create worksheet
-    worksheet_name = "tglinkslist"
+    worksheet_name = worksheet
     try:
         sheet = spreadsheet.worksheet(worksheet_name)
     except gspread.exceptions.WorksheetNotFound:

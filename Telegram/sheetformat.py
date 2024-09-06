@@ -1,7 +1,8 @@
 from gspread import *
 from gspread_formatting import *
-from writespreadsheet import authorize_google_sheet
+from Telegram.writespreadsheet import authorize_google_sheet, sheetname, worksheet
 from gspread_formatting import batch_updater, CellFormat, Color
+
 
 shades_dict = {
     1000000: Color(0.9, 1, 0.9),  # Lighter green
@@ -105,9 +106,11 @@ def formatTheWorksheet():
     client = authorize_google_sheet()
     
     # Apply to sheet
-    spreadsheet = client.open("banana")
-    worksheet = spreadsheet.worksheet("tglinkslist")
-    applyChanges(worksheet)
+    sheet= sheetname
+    worksname= worksheet
+    spreadsheet = client.open(sheet)
+    changableworksheet = spreadsheet.worksheet(worksname)
+    applyChanges(changableworksheet)
 
 # if __name__ == "__main__":
 #     print("Formatting")
