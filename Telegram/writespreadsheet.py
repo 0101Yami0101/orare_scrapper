@@ -4,7 +4,7 @@ from gspread_formatting import *
 import time
 
 
-sheetname= "banana"
+sheetname= "apple"
 worksheet= "tg"
 # Auth
 def authorize_google_sheet():
