@@ -20,9 +20,9 @@ def addItemsToWsheet(jsonfilename):
         spreadsheet = client.create("Apple")
 
     try:
-        sheet = spreadsheet.worksheet("try")
+        sheet = spreadsheet.worksheet("new")
     except gspread.exceptions.WorksheetNotFound:
-        sheet = spreadsheet.add_worksheet(title="try", rows="100", cols="10")
+        sheet = spreadsheet.add_worksheet(title="new", rows="100", cols="10")
 
 
     headers = ["channel_name", "channel_link", "email", "tg"]

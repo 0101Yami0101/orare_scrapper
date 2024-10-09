@@ -10,4 +10,4 @@ def start_fetch_and_write_sheet(search_queries):
     """
 
     queries= search_queries
-    YouTubeDataFetcher(api_key, queries, region_code='PH', language='tl', country='PH')
+    YouTubeDataFetcher(api_key, queries)
