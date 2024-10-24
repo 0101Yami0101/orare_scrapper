@@ -8,7 +8,7 @@ class YouTubeDataFetcher:
     """
     Youtube search scrapper class
     """
-    def __init__(self, api_key, queries, min_view_count=50000, region_code='US', language='en', country='US'):
+    def __init__(self, api_key, queries, min_view_count=500, region_code='US', language='en', country='US'):
      
         self.api_key = api_key
         self.queries = queries
@@ -33,10 +33,10 @@ class YouTubeDataFetcher:
             part="snippet",
             q=query,
             type="video",
-            maxResults=50,
+            maxResults=300,
             order="viewCount",
-            regionCode=self.region_code,
-            relevanceLanguage=self.language
+            # regionCode=self.region_code,
+            # relevanceLanguage=self.language
         )
         response = request.execute()
         return response['items']

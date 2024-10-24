@@ -1,8 +1,8 @@
 import os
-from ton_games import TonGamesBaseUrlScraper
-from extract_bot_links import TonBotLinkScraper
-from extract_user_count import BotUserCountScraper
-import write_data_on_sheet
+from TON.ton_games import TonGamesBaseUrlScraper
+from TON.extract_bot_links import TonBotLinkScraper
+from TON.extract_user_count import BotUserCountScraper
+from TON import write_data_on_sheet
 
 class TonMainInit():
     """
