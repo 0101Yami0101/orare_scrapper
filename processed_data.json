@@ -1,5 +1,47 @@
 [
     {
+        "channel_name": "Mc addon",
+        "channel_link": "https://www.youtube.com/channel/UC9GmTDKB0ttKEnzKsMRYRTA",
+        "email": [
+            "businesswithmcaddon@servicemedia.in"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "SEED Combinator",
+        "channel_link": "https://www.youtube.com/channel/UCeWDjVcf2EeE-bfGA1iNqSw",
+        "email": [],
+        "tg": [
+            "t.me/seedupdates",
+            "t.me/seed_coin_bot"
+        ]
+    },
+    {
+        "channel_name": "ONE GAMING FF",
+        "channel_link": "https://www.youtube.com/channel/UCXrojf7aZmvrCjZzOi1oHPA",
+        "email": [
+            "gamingone4321@gmail.com"
+        ],
+        "tg": [
+            "t.me/seed_coin_bot",
+            "t.me/topcoinbd"
+        ]
+    },
+    {
+        "channel_name": "Bangla Tutorial 99",
+        "channel_link": "https://www.youtube.com/channel/UCWb53iLTnc5TioQ9hTDoDyQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "RKG ZACCY",
+        "channel_link": "https://www.youtube.com/channel/UClDaSqB4xgT1yzgiyj024dA",
+        "email": [],
+        "tg": [
+            "t.me/rkgzaccy1"
+        ]
+    },
+    {
         "channel_name": "Tech Dishoom",
         "channel_link": "https://www.youtube.com/channel/UC78ugGolZN0KBdOa7wjaJ9Q",
         "email": [],
@@ -9,25 +51,15 @@
         ]
     },
     {
-        "channel_name": "SH Tech Official",
-        "channel_link": "https://www.youtube.com/channel/UCm9VOoPVg9H7DJd41mm163A",
-        "email": [
-            "shahadot918@gmail.com"
-        ],
-        "tg": [
-            "t.me/shtech2"
-        ]
-    },
-    {
         "channel_name": "Nabil Tech",
         "channel_link": "https://www.youtube.com/channel/UCdjJ_GCf1fkt-cNZtbm85NQ",
         "email": [
             "mdnabilahmed4937@gmail.com"
         ],
         "tg": [
+            "t.me/nabiltech94",
             "t.me/Nabiltechofficial94",
-            "t.me/rocky_rabbit_bot",
-            "t.me/nabiltech94"
+            "t.me/rocky_rabbit_bot"
         ]
     },
     {
@@ -47,9 +79,9 @@
             "aizaz.aizazkhan.khan06711@gmail.com"
         ],
         "tg": [
+            "t.me/aizazengineerofficial7",
             "t.me/hamster_koMbat_bot",
-            "t.me/rocky_rabbit_bot",
-            "t.me/aizazengineerofficial7"
+            "t.me/rocky_rabbit_bot"
         ]
     },
     {
@@ -74,34 +106,104 @@
         ]
     },
     {
-        "channel_name": "RKG ARMY",
-        "channel_link": "https://www.youtube.com/channel/UCm5DZc8fB7_iSZ-jWXp67bA",
-        "email": [
-            "rkgsquad1947@gmail.com"
-        ],
-        "tg": [
-            "t.me/rkgarmy11"
-        ]
-    },
-    {
-        "channel_name": "Gamer ApexH",
-        "channel_link": "https://www.youtube.com/channel/UCEY7cbY07_m6QSKycSQEU6Q",
-        "email": [
-            "goatfam691@gmail.com"
-        ],
-        "tg": [
-            "t.me/gamerapexhpubg",
-            "t.me/GamerApexHYt",
-            "t.me/gamerapexh2"
-        ]
-    },
-    {
         "channel_name": "Game Of Kings YT",
         "channel_link": "https://www.youtube.com/channel/UC6J1BroEIAwv_eQExVmDfpA",
         "email": [
             "Gokads90@gmail.com"
         ],
         "tg": []
+    },
+    {
+        "channel_name": "Technical Sabbir",
+        "channel_link": "https://www.youtube.com/channel/UCtHPkSiod7OUt73ILJO3law",
+        "email": [
+            "sabbirdirector518@gmail.com",
+            "Sabbirdirector518@gmail.com"
+        ],
+        "tg": [
+            "t.me/TechnicalSabbir",
+            "t.me/technicalsabbirgroup",
+            "t.me/technicalsabbirEMO",
+            "t.me/TechnicalSabbiRinvestor"
+        ]
+    },
+    {
+        "channel_name": "The Tonight Show Starring Jimmy Fallon",
+        "channel_link": "https://www.youtube.com/channel/UC8-Th83bH_thdKZDJCrn88g",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "GameToons",
+        "channel_link": "https://www.youtube.com/channel/UCToxKVrkEuAONR4rFIJ_DyQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "TraiNghiemGame",
+        "channel_link": "https://www.youtube.com/channel/UCjjP9CfuoCU0KJM5tJpSU1w",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "NBA",
+        "channel_link": "https://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "NFL",
+        "channel_link": "https://www.youtube.com/channel/UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "MLB",
+        "channel_link": "https://www.youtube.com/channel/UCoLrcjPV5PbUrUyXq5mjc_A",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "FreeDawkins",
+        "channel_link": "https://www.youtube.com/channel/UCEjOSbbaOfgnfRODEEMYlCw",
+        "email": [],
+        "tg": [
+            "t.me/FreeDawkinsOfficial"
+        ]
+    },
+    {
+        "channel_name": "GAMETIME HIGHLIGHTS",
+        "channel_link": "https://www.youtube.com/channel/UC0LrZO9wORIqn_aRJtKdgfA",
+        "email": [
+            "gametimehighlightsyt@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Clayton e Rom\u00e1rio",
+        "channel_link": "https://www.youtube.com/channel/UCYjeXUFCDs_USmNGjiIzW0A",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Michaelrendyw",
+        "channel_link": "https://www.youtube.com/channel/UCD-K-ic2s_p2eEvahs5_8CA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Ling ling lieanti",
+        "channel_link": "https://www.youtube.com/channel/UCq9bRL9IcHhI7cgqCGtztqA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Tabraiz Shams",
+        "channel_link": "https://www.youtube.com/channel/UCXeKfW6fBueWPppcMnIUang",
+        "email": [],
+        "tg": [
+            "t.me/ShamsTabraiz"
+        ]
     },
     {
         "channel_name": "Epic 999 Official",
@@ -112,36 +214,147 @@
         ]
     },
     {
-        "channel_name": "Technical Sabbir",
-        "channel_link": "https://www.youtube.com/channel/UCtHPkSiod7OUt73ILJO3law",
-        "email": [
-            "Sabbirdirector518@gmail.com",
-            "sabbirdirector518@gmail.com"
-        ],
-        "tg": [
-            "t.me/TechnicalSabbir",
-            "t.me/technicalsabbirgroup",
-            "t.me/technicalsabbirEMO",
-            "t.me/TechnicalSabbiRinvestor"
-        ]
-    },
-    {
-        "channel_name": "RKG ZACCY",
-        "channel_link": "https://www.youtube.com/channel/UClDaSqB4xgT1yzgiyj024dA",
+        "channel_name": "Blaze",
+        "channel_link": "https://www.youtube.com/channel/UCx6mNaRZWdUr_u9dvVePJXw",
         "email": [],
         "tg": [
-            "t.me/rkgzaccy1"
+            "t.me/blazenation"
         ]
     },
     {
-        "channel_name": "Your Tech Aman",
-        "channel_link": "https://www.youtube.com/channel/UCce2B0RU70jUke37LPqymYA",
+        "channel_name": "Youssef Gallabi",
+        "channel_link": "https://www.youtube.com/channel/UCVNkzpICAZHi-GWoa4JCxDg",
+        "email": [],
+        "tg": [
+            "t.me/youssefgallabi",
+            "t.me/blum",
+            "t.me/seed_coin_bot",
+            "t.me/tonstationgames_bot",
+            "t.me/major"
+        ]
+    },
+    {
+        "channel_name": "CryptObvious",
+        "channel_link": "https://www.youtube.com/channel/UCYOX9ADmeQkNETr6yI7vh-w",
+        "email": [],
+        "tg": [
+            "t.me/cryptobvious",
+            "t.me/BlumCryptoBot",
+            "t.me/cryptobviouschat"
+        ]
+    },
+    {
+        "channel_name": "\u0414\u041d\u0415\u0412\u041d\u0418\u041a \u0410\u041a\u0422\u0418\u0412\u041e\u0412",
+        "channel_link": "https://www.youtube.com/channel/UCyNjeCkio4ask0JH2Njgxpg",
+        "email": [],
+        "tg": [
+            "t.me/MemesLabBot",
+            "t.me/tapswap_mirror_1_bot",
+            "t.me/duckscoop_bot",
+            "t.me/gemZcoin_bot",
+            "t.me/dnevnikaktivov_help",
+            "t.me/Tomarket_ai_bot",
+            "t.me/major",
+            "t.me/BlumCryptoBot",
+            "t.me/OKX_official_bot",
+            "t.me/cityholder",
+            "t.me/catsdogs_game_bot",
+            "t.me/tonstationgames_bot",
+            "t.me/catizenbot",
+            "t.me/bittonapp_bot",
+            "t.me/b_usersbot",
+            "t.me/coub",
+            "t.me/bums",
+            "t.me/hamsTer_kombat_bot",
+            "t.me/notpixel",
+            "t.me/notcoin_bot",
+            "t.me/Catizen_Mntbot",
+            "t.me/FreeDurovBot",
+            "t.me/fabrika",
+            "t.me/catsgang_bot",
+            "t.me/GoblinMine_bot",
+            "t.me/dogshouse_bot",
+            "t.me/empirebot",
+            "t.me/Binance_Moonbix_bot",
+            "t.me/c",
+            "t.me/hrummebot"
+        ]
+    },
+    {
+        "channel_name": "Yamoza - \u064a\u0627\u0645\u0648\u0632\u0627",
+        "channel_link": "https://www.youtube.com/channel/UC1Dg7S4UEfqDy17ZJhWanfQ",
         "email": [
-            "yourtechaman@gmail.com"
+            "ymouzaki385384@gmail.com"
         ],
         "tg": [
-            "t.me/youtechaman"
+            "t.me/catsdogs_game_bot",
+            "t.me/MatchQuestBot",
+            "t.me/blum",
+            "t.me/yassinemouzaki_0",
+            "t.me/seed_coin_bot",
+            "t.me/memefi_coin_bot",
+            "t.me/empirebot",
+            "t.me/hamster_kombat_Bot",
+            "t.me/tonstationgames_bot",
+            "t.me/Binance_Moonbix_bot",
+            "t.me/Tomarket_ai_bot",
+            "t.me/hrummebot",
+            "t.me/major"
         ]
+    },
+    {
+        "channel_name": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0417\u0430\u0439\u043a\u0430",
+        "channel_link": "https://www.youtube.com/channel/UCuSWRSQoppnrfTuDN02xZ_Q",
+        "email": [],
+        "tg": [
+            "t.me/GoblinMine_bot",
+            "t.me/blum",
+            "t.me/tonstationgames_bot"
+        ]
+    },
+    {
+        "channel_name": "Mizanur Tech Bd",
+        "channel_link": "https://www.youtube.com/channel/UChvK89dLg4wCCpngmnSH7gA",
+        "email": [],
+        "tg": [
+            "t.me/MizanurTechBd2",
+            "t.me/MizanurTechBd1",
+            "t.me/seed_coin_bot"
+        ]
+    },
+    {
+        "channel_name": "albarizon",
+        "channel_link": "https://www.youtube.com/channel/UCCIQF3SoMDkRPWHQie4pUFA",
+        "email": [
+            "contact@albarizon.pk"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Techno Gamerz",
+        "channel_link": "https://www.youtube.com/channel/UCX8pnu3DYUnx8qy8V_c6oHg",
+        "email": [
+            "technogamerzofficial@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "King Games",
+        "channel_link": "https://www.youtube.com/channel/UCGu9-9FqQtXAitxkOnHzz6Q",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "ACI GameSpot",
+        "channel_link": "https://www.youtube.com/channel/UCiowUSwj8stvWzgQBUe3ldg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "EJStory",
+        "channel_link": "https://www.youtube.com/channel/UCiyK6H_rqSDH0MDlm4JvkHA",
+        "email": [],
+        "tg": []
     },
     {
         "channel_name": "Blockchain SAGE",
@@ -152,23 +365,467 @@
         ]
     },
     {
-        "channel_name": "albarizon",
-        "channel_link": "https://www.youtube.com/channel/UCCIQF3SoMDkRPWHQie4pUFA",
+        "channel_name": "CITY Holder",
+        "channel_link": "https://www.youtube.com/channel/UCBN63lKA48sE3O7GqemHOhQ",
+        "email": [],
+        "tg": [
+            "t.me/CITY_Holder_Community",
+            "t.me/city_holder",
+            "t.me/cityholder"
+        ]
+    },
+    {
+        "channel_name": "Morse & Mint",
+        "channel_link": "https://www.youtube.com/channel/UCMZpM1byWlCeheF4hfMShBw",
+        "email": [],
+        "tg": [
+            "t.me/cityholder",
+            "t.me/MorseandMint"
+        ]
+    },
+    {
+        "channel_name": "Blagotrading",
+        "channel_link": "https://www.youtube.com/channel/UCIS4rqhKYSwQ7ohd9RfLLOw",
+        "email": [],
+        "tg": [
+            "t.me/cityholder"
+        ]
+    },
+    {
+        "channel_name": "FreshersLIVE",
+        "channel_link": "https://www.youtube.com/channel/UCYocu896_R8QjQ84f84PRrw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "TechPawan07",
+        "channel_link": "https://www.youtube.com/channel/UCQxnqcOqGu_RO9YMhzt0Uaw",
+        "email": [],
+        "tg": [
+            "t.me/cityholder"
+        ]
+    },
+    {
+        "channel_name": "Knightron Crypto",
+        "channel_link": "https://www.youtube.com/channel/UCnPDCHW3809c93ngyYx9sDA",
         "email": [
-            "contact@albarizon.pk"
+            "knightroncrypto@gmail.com"
         ],
         "tg": [
-            "t.me/catsgang_bot",
-            "t.me/rocky_rabbit_bot",
-            "t.me/major",
-            "t.me/taptether_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/albarizonpk",
-            "t.me/catizenbot",
-            "t.me/Tomarket_ai_bot",
-            "t.me/hamSter_kombat_bot",
-            "t.me/blum"
+            "t.me/knightron_crypto",
+            "t.me/morawaaha",
+            "t.me/nightroncrypto",
+            "t.me/RizaAhnaf"
         ]
+    },
+    {
+        "channel_name": "Techie Home",
+        "channel_link": "https://www.youtube.com/channel/UCmt2QvFBNQlMzw_5sgLPFnQ",
+        "email": [],
+        "tg": [
+            "t.me/BlumCryptoBot",
+            "t.me/gamee",
+            "t.me/the_pixels_bot",
+            "t.me/techiehome",
+            "t.me/seed_coin_bot",
+            "t.me/cexio_tap_bot",
+            "t.me/waveonsuibot",
+            "t.me/vertus_app_bot"
+        ]
+    },
+    {
+        "channel_name": "SH Tech Official",
+        "channel_link": "https://www.youtube.com/channel/UCm9VOoPVg9H7DJd41mm163A",
+        "email": [
+            "shahadot918@gmail.com"
+        ],
+        "tg": [
+            "t.me/shtech2"
+        ]
+    },
+    {
+        "channel_name": "Technical Alok",
+        "channel_link": "https://www.youtube.com/channel/UC0Fnb2Bvb0ig-Pky9dQ-19g",
+        "email": [
+            "--------mynewshop3@gmail.com"
+        ],
+        "tg": [
+            "t.me/technicalalok"
+        ]
+    },
+    {
+        "channel_name": "MACHOMEKERR",
+        "channel_link": "https://www.youtube.com/channel/UCC_xW-Pxkp-kdruknR95psQ",
+        "email": [],
+        "tg": [
+            "t.me/dotcoin_bot",
+            "t.me/MachoTreyding"
+        ]
+    },
+    {
+        "channel_name": "Junaid Atta",
+        "channel_link": "https://www.youtube.com/channel/UC_53feOHVRuduclAHqHgmzg",
+        "email": [
+            "officialprinceashu@gmail.com"
+        ],
+        "tg": [
+            "t.me/JunaidAtta0"
+        ]
+    },
+    {
+        "channel_name": "Global Rashid",
+        "channel_link": "https://www.youtube.com/channel/UC2ldcEtbR7cFYadgrnW3B6Q",
+        "email": [
+            "globalrashid4you@gmail.com",
+            "info@globalrashid.com"
+        ],
+        "tg": [
+            "t.me/dotcoin_bot"
+        ]
+    },
+    {
+        "channel_name": "Update Earning news",
+        "channel_link": "https://www.youtube.com/channel/UCmkAsU0Uzc_7mQGJyzmddnA",
+        "email": [
+            "aoshimsarker@gmail.com"
+        ],
+        "tg": [
+            "t.me/updateearningnewschannl",
+            "t.me/Aoshim123"
+        ]
+    },
+    {
+        "channel_name": "BKD tutorials",
+        "channel_link": "https://www.youtube.com/channel/UC6hOWS_3XRpefaYjjNugcXg",
+        "email": [],
+        "tg": [
+            "t.me/idrusd",
+            "t.me/seed_coin_bot"
+        ]
+    },
+    {
+        "channel_name": "Open4Profit",
+        "channel_link": "https://www.youtube.com/channel/UCknXixhwqBmek5HbN61HL0A",
+        "email": [
+            "zia@open4profit.com"
+        ],
+        "tg": [
+            "t.me/open4profit",
+            "t.me/dogshouse_bot",
+            "t.me/ziahaq",
+            "t.me/hamstEr_kombat_bot",
+            "t.me/Tomarket_ai_bot"
+        ]
+    },
+    {
+        "channel_name": "Make By Online ",
+        "channel_link": "https://www.youtube.com/channel/UCiBS0ufa7Uzo1Pp3OAVTuBA",
+        "email": [
+            "makebyonilne@gmail.com"
+        ],
+        "tg": [
+            "t.me/makebyonlinechannel"
+        ]
+    },
+    {
+        "channel_name": "TOP CLASS GAMING",
+        "channel_link": "https://www.youtube.com/channel/UCCchzBN2xNIofT3R-5UoJEA",
+        "email": [
+            "tech4updated@gmail.com"
+        ],
+        "tg": [
+            "t.me/Earnwithsunny",
+            "t.me/cryptomining_Leaks"
+        ]
+    },
+    {
+        "channel_name": "Tech Bangla Help",
+        "channel_link": "https://www.youtube.com/channel/UCLofxTlh5uFYMURGn21rCCA",
+        "email": [
+            "hridaysarker7313@gmail.com"
+        ],
+        "tg": [
+            "t.me/techbanglahelp"
+        ]
+    },
+    {
+        "channel_name": "CoinVision \u00b7 10k views \u00b7 5 minutes ago\n\n\n\n\n...",
+        "channel_link": "https://www.youtube.com/channel/UCXxZAQs1asiQM_W1HIC1eBw",
+        "email": [
+            "sarnobatbhargav@gmail.com"
+        ],
+        "tg": [
+            "t.me/Coin_Vision123",
+            "t.me/gemzcOin_bot",
+            "t.me/spell_wallet_bot",
+            "t.me/tapswap_mirror_bot",
+            "t.me/tapcoinsbot",
+            "t.me/Tomarket_ai_bot",
+            "t.me/wcoin_tapbot",
+            "t.me/TimeFarmCryptoBot",
+            "t.me/BIRDTonBot",
+            "t.me/treasure_tapper_bot",
+            "t.me/rocky_rabbit_bot",
+            "t.me/muskempire_bot",
+            "t.me/hamster_kombat_bOt",
+            "t.me/TheBaboon_Bot",
+            "t.me/theZencoin_bot",
+            "t.me/catsgang_bot",
+            "t.me/catidpawsbot",
+            "t.me/oxygenminerbot",
+            "t.me/dogshouse_bot",
+            "t.me/memefi_coin_bot",
+            "t.me/catgoldminerbot",
+            "t.me/chaincrops_bot"
+        ]
+    },
+    {
+        "channel_name": "Arafat Tech 1",
+        "channel_link": "https://www.youtube.com/channel/UCKgm5Vnav1WWYA4Zhxo709g",
+        "email": [
+            "allinternet041@gmail.com"
+        ],
+        "tg": [
+            "t.me/arafatvai100",
+            "t.me/arafattech1support",
+            "t.me/arafattech100"
+        ]
+    },
+    {
+        "channel_name": "Star Abhishek Technical",
+        "channel_link": "https://www.youtube.com/channel/UCmgF3IC5b7tSmG8G-0An3Jg",
+        "email": [
+            "starabhishektechnical@gmail.com"
+        ],
+        "tg": [
+            "t.me/starabhishekcrypto"
+        ]
+    },
+    {
+        "channel_name": "Khan Technical Taleem",
+        "channel_link": "https://www.youtube.com/channel/UCjnoUkhwPlLC8dnfmc_cSbQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "PUTRA CHANNEL",
+        "channel_link": "https://www.youtube.com/channel/UCOi_m3LxUy0_J3Fh9WZAFaA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Huzaifa Tricks",
+        "channel_link": "https://www.youtube.com/channel/UCH-8gLg7kkokYvS5ROqvUeA",
+        "email": [
+            "pmsourov30@gmail.com"
+        ],
+        "tg": [
+            "t.me/SourovGadgetsBD"
+        ]
+    },
+    {
+        "channel_name": "qpCode",
+        "channel_link": "https://www.youtube.com/channel/UCqhiYALEafawp9QdYDLkBMg",
+        "email": [],
+        "tg": [
+            "t.me/qpnotcoin",
+            "t.me/notcoin_bot"
+        ]
+    },
+    {
+        "channel_name": "Earning Today Shakil",
+        "channel_link": "https://www.youtube.com/channel/UC3OdBUQxRtq-iadv550z6dw",
+        "email": [
+            "shakilkhankote@gmail.com"
+        ],
+        "tg": [
+            "t.me/EarningTodayShakilY",
+            "t.me/SkShakilTV",
+            "t.me/EarningTodayShakil"
+        ]
+    },
+    {
+        "channel_name": "The Moon",
+        "channel_link": "https://www.youtube.com/channel/UCc4Rz_T9Sb1w5rqqo9pL1Og",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Infinity Algo",
+        "channel_link": "https://www.youtube.com/channel/UC1q5zTEdpeSQS8ksq4hdJcw",
+        "email": [
+            "support@infinityalgo.com"
+        ],
+        "tg": [
+            "t.me/Infinity_Crypto_Signals",
+            "t.me/infinity_help"
+        ]
+    },
+    {
+        "channel_name": "Sekreciy",
+        "channel_link": "https://www.youtube.com/channel/UCvOsQZZwcF_8MfUBXLvqvXw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "\u0410\u0420\u0427\u0415\u0420 \u041f\u0420\u041e \u041a\u0420\u0418\u041f\u0422\u0423: \u0431\u0438\u0440\u0436\u0438 \u0438 \u0442\u0440\u0435\u0439\u0434\u0438\u043d\u0433",
+        "channel_link": "https://www.youtube.com/channel/UCN_1r0iCFNT2i5bBE9-02DA",
+        "email": [],
+        "tg": [
+            "t.me/archer_crypto",
+            "t.me/herewalletbot",
+            "t.me/BlumCryptoBot",
+            "t.me/hamster_kombat_bot"
+        ]
+    },
+    {
+        "channel_name": "\u0420\u0430\u0437\u0443\u043c\u043d\u044b\u0439 \u0418\u043d\u0432\u0435\u0441\u0442\u043e\u0440",
+        "channel_link": "https://www.youtube.com/channel/UCNgD7ZoWeGZadHjph-nf7Ng",
+        "email": [],
+        "tg": [
+            "t.me/kostyaryzhekov"
+        ]
+    },
+    {
+        "channel_name": "Doston Baratov",
+        "channel_link": "https://www.youtube.com/channel/UCta-n0TsLmE0_HNz4zkXmpQ",
+        "email": [
+            "brtvdoston@gmail.com"
+        ],
+        "tg": [
+            "t.me/BlumCryptoBot",
+            "t.me/hamster_kombat_Bot",
+            "t.me/dostonbaratovv",
+            "t.me/tapswap_mirror_2_bot"
+        ]
+    },
+    {
+        "channel_name": "Crypto Education",
+        "channel_link": "https://www.youtube.com/channel/UCw82CzuCDcaPCzhQ3QI7CRw",
+        "email": [],
+        "tg": [
+            "t.me/Cryptos_Education",
+            "t.me/pixelversexyzbot",
+            "t.me/hamster_kombat_bot"
+        ]
+    },
+    {
+        "channel_name": "CryptoSmerkis",
+        "channel_link": "https://www.youtube.com/channel/UCpb8VXCdu9CdkXd0rzpXx3A",
+        "email": [],
+        "tg": [
+            "t.me/blumcrypto_cis",
+            "t.me/blumcrypto_cis_chat",
+            "t.me/SmerkisCrypto"
+        ]
+    },
+    {
+        "channel_name": "Baby Shark - Pinkfong Kids\u2019 Songs & Stories",
+        "channel_link": "https://www.youtube.com/channel/UCcdwLMPsaU2ezNSJU1nFoBQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "D Billions",
+        "channel_link": "https://www.youtube.com/channel/UCi3onjs7UU2Z64i3RrVci-Q",
+        "email": [
+            "info@dbillions.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Giver",
+        "channel_link": "https://www.youtube.com/channel/UCXa28b-nTJ8Lz0tBEkoO_VA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Goodland Short",
+        "channel_link": "https://www.youtube.com/channel/UC2vxP1A59Wu-_GMbjFn0Gug",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "D Billions Espa\u00f1ol",
+        "channel_link": "https://www.youtube.com/channel/UCOQlVkrr8TrN-2d72O8HFAg",
+        "email": [
+            "info@dbillions.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Fleeting Films",
+        "channel_link": "https://www.youtube.com/channel/UCe74IlqLlKH59wWPm_Qal4A",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "\ubf40\ub85c\ub85c\uc640 \ub178\ub798\ud574\uc694 (\ubf40\ub85c\ub85c \u2022 \ud0c0\uc694 \uc778\uae30\ub3d9\uc694)",
+        "channel_link": "https://www.youtube.com/channel/UCi0mZC22Uj3ww0w9KtkPgZQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Rico Animations",
+        "channel_link": "https://www.youtube.com/channel/UCOicc9kd58k_XR3D7bTx8oA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "CRYPTO PLUS | \u0643\u0631\u064a\u0628\u062a\u0648 \u0628\u0644\u0635",
+        "channel_link": "https://www.youtube.com/channel/UCSIIDEV3CDTU6xMxi5XLrEw",
+        "email": [
+            "CryptoPlusAds@gmail.com"
+        ],
+        "tg": [
+            "t.me/tonstationgames_bot",
+            "t.me/catsgang_bot",
+            "t.me/CryptoPlusAr"
+        ]
+    },
+    {
+        "channel_name": "\u041a\u0440\u0438\u043f\u0442\u043e \u0425\u0438\u043c\u0438\u043a",
+        "channel_link": "https://www.youtube.com/channel/UC0uYzP6LHn-nGnC3j5B9LTQ",
+        "email": [],
+        "tg": [
+            "t.me/criptohimik",
+            "t.me/cityholder"
+        ]
+    },
+    {
+        "channel_name": "Dragonz Land",
+        "channel_link": "https://www.youtube.com/channel/UCIpw96hvnVGyQ5ZsYqCbezQ",
+        "email": [],
+        "tg": [
+            "t.me/DragonzLand"
+        ]
+    },
+    {
+        "channel_name": "Earning Sikka",
+        "channel_link": "https://www.youtube.com/channel/UClY4Zz9SsB_AFpflrdNfVnw",
+        "email": [
+            "Earningsikkaofficial@gmail.com",
+            "EarningSikkaofficial@gmail.com"
+        ],
+        "tg": [
+            "t.me/earningsikka",
+            "t.me/CabMining"
+        ]
+    },
+    {
+        "channel_name": "Para Kazanma Vakti",
+        "channel_link": "https://www.youtube.com/channel/UC_PAvSrvmXwOp01sMQgcuLg",
+        "email": [],
+        "tg": [
+            "t.me/parakazanmavaktisohbet",
+            "t.me/dragonz_land_bot"
+        ]
+    },
+    {
+        "channel_name": "Sadiq Tech",
+        "channel_link": "https://www.youtube.com/channel/UChGCOP-6Q5l5b0gRTWlgcTw",
+        "email": [],
+        "tg": []
     },
     {
         "channel_name": "TIYASHX",
@@ -187,1176 +844,51 @@
             "er.rrsingh25@gmail.com"
         ],
         "tg": [
+            "t.me/tapswap_mirror_1_bot",
             "t.me/techranjanofficial",
-            "t.me/muskempire_bot",
-            "t.me/BlumCryptoBot",
-            "t.me/Catizen_Mntbot",
-            "t.me/catsgang_bot",
-            "t.me/lost_dogs_bot",
-            "t.me/memefi_coin_bot",
+            "t.me/TopCryptoMiningApp",
             "t.me/Pitokendailysell",
-            "t.me/TopCryptoMiningApp"
-        ]
-    },
-    {
-        "channel_name": "Open4Profit",
-        "channel_link": "https://www.youtube.com/channel/UCknXixhwqBmek5HbN61HL0A",
-        "email": [
-            "zia@open4profit.com"
-        ],
-        "tg": [
-            "t.me/ziahaq",
-            "t.me/hamstEr_kombat_bot",
-            "t.me/dogshouse_bot",
-            "t.me/open4profit",
-            "t.me/Tomarket_ai_bot"
-        ]
-    },
-    {
-        "channel_name": "FineTech Rajesh ",
-        "channel_link": "https://www.youtube.com/channel/UCmIyPOZ4fDq2g6ll0SPdrVQ",
-        "email": [
-            "finetechrajesh@gmail.com"
-        ],
-        "tg": [
-            "t.me/finetechrajesh"
-        ]
-    },
-    {
-        "channel_name": "Crypto Sahhil",
-        "channel_link": "https://www.youtube.com/channel/UCMMTTIIqH49nEY1tw2MYqBg",
-        "email": [],
-        "tg": [
-            "t.me/cryptoairdropcrown",
-            "t.me/cryptocrownofficial"
-        ]
-    },
-    {
-        "channel_name": "\ud835\udc0c\ud835\udc08 \ud835\udc13\ud835\udc08\ud835\udc0f\ud835\udc12",
-        "channel_link": "https://www.youtube.com/channel/UCn1_P0QerFaAaFFfGzp_MfA",
-        "email": [],
-        "tg": [
-            "t.me/MI_TIPS_GROUP",
-            "t.me/MI_TIPS"
-        ]
-    },
-    {
-        "channel_name": "SleekTru \u2122",
-        "channel_link": "https://www.youtube.com/channel/UCtn6_408Gwra8p9WghfhKfg",
-        "email": [
-            "contact@sleektru.com"
-        ],
-        "tg": [
-            "t.me/makemoneywithsleektru"
-        ]
-    },
-    {
-        "channel_name": "Tech Offers Today",
-        "channel_link": "https://www.youtube.com/channel/UCx9alO2pQnxgu1NgSYvJk6w",
-        "email": [
-            "shahzarkairanvi@gmail.com"
-        ],
-        "tg": [
-            "t.me/rocky_rabbit_bot"
-        ]
-    },
-    {
-        "channel_name": "Ali Iqbal",
-        "channel_link": "https://www.youtube.com/channel/UC0WvicyAyxsDipkqjGovxCg",
-        "email": [],
-        "tg": [
-            "t.me/empirebot",
-            "t.me/Binance_Moonbix_bot",
-            "t.me/rocky_rabbit_bot"
-        ]
-    },
-    {
-        "channel_name": "AIRDROP FINDER",
-        "channel_link": "https://www.youtube.com/channel/UCIQrIDPvBhIT1aZHOjTZkpw",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Start From Zero",
-        "channel_link": "https://www.youtube.com/channel/UCb-ynXQ-Zb8xCKMpmSICiFg",
-        "email": [
-            "atozjawab@gmail.com"
-        ],
-        "tg": [
-            "t.me/atozjawab"
-        ]
-    },
-    {
-        "channel_name": "BKD tutorials",
-        "channel_link": "https://www.youtube.com/channel/UC6hOWS_3XRpefaYjjNugcXg",
-        "email": [],
-        "tg": [
-            "t.me/idrusd",
-            "t.me/Kedai_CryptoBot"
-        ]
-    },
-    {
-        "channel_name": "Tabraiz Shams",
-        "channel_link": "https://www.youtube.com/channel/UCXeKfW6fBueWPppcMnIUang",
-        "email": [],
-        "tg": [
-            "t.me/ShamsTabraiz"
-        ]
-    },
-    {
-        "channel_name": "Tech Rain",
-        "channel_link": "https://www.youtube.com/channel/UCEvWK6AWwnogrZPKDWVeboA",
-        "email": [
-            "Zkedit2002@gmail.com"
-        ],
-        "tg": [
-            "t.me/rocky_rabbit_bot"
-        ]
-    },
-    {
-        "channel_name": "Trendoria",
-        "channel_link": "https://www.youtube.com/channel/UCR1MdTzG2r7NnhSnyLbrGOQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Revit Gamer",
-        "channel_link": "https://www.youtube.com/channel/UCDLeIf4w2OsADjqqUaxL9Pw",
-        "email": [
-            "kunalviratxyz@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "LastKnownMeal",
-        "channel_link": "https://www.youtube.com/channel/UCSI_PW-LM2rC5-1XYpbaSBQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "\u041a\u0440\u0438\u043f\u0442\u043e\u041b\u0430\u043c\u0430 3.0",
-        "channel_link": "https://www.youtube.com/channel/UCIs8kLi9IKWEzCh8aSHthsQ",
-        "email": [],
-        "tg": [
-            "t.me/tBTCminer_bot",
-            "t.me/btclama",
-            "t.me/cubesonthewater_bot",
-            "t.me/Hypercoin_bot",
-            "t.me/punkcity2094bot",
-            "t.me/memefi_coin_bot",
-            "t.me/pocketfi_bot",
-            "t.me/oxygenminerbot"
-        ]
-    },
-    {
-        "channel_name": "AL BOURAKH TV",
-        "channel_link": "https://www.youtube.com/channel/UC96LzyByw5j-4FUJppPTPhA",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Mystery of Crypto",
-        "channel_link": "https://www.youtube.com/channel/UCwkYPsMhttFdZ-GUUGWVacQ",
-        "email": [
-            "Contact@Mysteryofcrypto.com"
-        ],
-        "tg": [
-            "t.me/hamster_kombat_bOt"
-        ]
-    },
-    {
-        "channel_name": "Lutte TV",
-        "channel_link": "https://www.youtube.com/channel/UCMSWUqbO7d5nx0Qd9JZghbA",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Les Dessous de l'Histoire",
-        "channel_link": "https://www.youtube.com/channel/UCS-CPlE1ovgmh55bw8AvUtw",
-        "email": [
-            "contact.lesdessousdelhistoire@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "TBS GAMERS",
-        "channel_link": "https://www.youtube.com/channel/UCXJtEM_VrgOhmm6onL6TvGA",
-        "email": [
-            "shandilay143143143@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "FreshersLIVE",
-        "channel_link": "https://www.youtube.com/channel/UCYocu896_R8QjQ84f84PRrw",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Crypto kailash ",
-        "channel_link": "https://www.youtube.com/channel/UCwhnuPCUapU3KHKb_Bfb4cg",
-        "email": [
-            "ramochoudhary77@gmail.com"
-        ],
-        "tg": [
-            "t.me/Dogscombocard"
-        ]
-    },
-    {
-        "channel_name": "Youtube Wale Baba",
-        "channel_link": "https://www.youtube.com/channel/UCpIkceSRGakqavix5m4ybYA",
-        "email": [
-            "Enquiry-poojamanmaurya@gmail.com",
-            "ME-poojamanmaurya@gmail.com"
-        ],
-        "tg": [
-            "t.me/techchampion0086"
-        ]
-    },
-    {
-        "channel_name": "Carry Techmind",
-        "channel_link": "https://www.youtube.com/channel/UCR-Qvrnsq5F4hsXrd4d-rMg",
-        "email": [
-            "badshagoldenvlogs@gmail.com"
-        ],
-        "tg": [
-            "t.me/Carrytechmindsupport"
-        ]
-    },
-    {
-        "channel_name": "Ledgendary Airdrop",
-        "channel_link": "https://www.youtube.com/channel/UC1N7NNBwjumhGIdGPAokmSw",
-        "email": [],
-        "tg": [
-            "t.me/rocky_rabbit_bot",
-            "t.me/LedgendaryAirdrop"
-        ]
-    },
-    {
-        "channel_name": "Tech Tuber Rana",
-        "channel_link": "https://www.youtube.com/channel/UC-hCUDThrB7kDMsujU2HU8Q",
-        "email": [
-            "showoffrana@gmail.com"
-        ],
-        "tg": [
-            "t.me/tech_tuber_rana",
-            "t.me/techtuberrana"
-        ]
-    },
-    {
-        "channel_name": "2stvsenegal",
-        "channel_link": "https://www.youtube.com/channel/UCeLEGbj240J6JhpP7ba8GwA",
-        "email": [
-            "commercial@2stv.net"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "Doni Sasake",
-        "channel_link": "https://www.youtube.com/channel/UCDuGni2vCxBCO3SAGkw6IMg",
-        "email": [],
-        "tg": [
-            "t.me/SasakeGrup",
-            "t.me/hAmster_kombat_bot",
-            "t.me/BlumCryptoBot"
-        ]
-    },
-    {
-        "channel_name": "BlockChainWorld",
-        "channel_link": "https://www.youtube.com/channel/UCzZ9BOtX6gruSmo121Uxq1Q",
-        "email": [
-            "pr@blockchainworld.ai"
-        ],
-        "tg": [
-            "t.me/grandcombat_bot",
-            "t.me/mike_crypto_z",
-            "t.me/web3worldchannel"
-        ]
-    },
-    {
-        "channel_name": "Techie Home",
-        "channel_link": "https://www.youtube.com/channel/UCmt2QvFBNQlMzw_5sgLPFnQ",
-        "email": [],
-        "tg": [
-            "t.me/grandcombat_bot",
-            "t.me/techiehome",
-            "t.me/techiehomeofficialgroup"
-        ]
-    },
-    {
-        "channel_name": "Gaston Productions",
-        "channel_link": "https://www.youtube.com/channel/UCOvWA-ZwZZ-qI-tNqJ6XUBA",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "How to Make Money Online ",
-        "channel_link": "https://www.youtube.com/channel/UC_J19lKignAGeeQE8LRkVwQ",
-        "email": [
-            "makingmoneymedia@gmail.com"
-        ],
-        "tg": [
-            "t.me/grandcombat_bot",
-            "t.me/HTMMO777"
-        ]
-    },
-    {
-        "channel_name": "Ndoufa",
-        "channel_link": "https://www.youtube.com/channel/UCO_Z3ha6Vkm62bfncFbDNSg",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Osmiteck",
-        "channel_link": "https://www.youtube.com/channel/UCwD2jQppVvmjtOmu4Sr04AA",
-        "email": [
-            "osmiteck@gmail.com"
-        ],
-        "tg": [
-            "t.me/grandcombat_bot",
-            "t.me/osmiteck",
-            "t.me/grandcombat"
-        ]
-    },
-    {
-        "channel_name": "MONEY BITCH",
-        "channel_link": "https://www.youtube.com/channel/UC0qGjjRu_hKk5n6aDi4gCmA",
-        "email": [
-            "masterringo_media@mail.ru"
-        ],
-        "tg": [
-            "t.me/hesoyam_exchange_bot",
-            "t.me/cryptobitchfree",
-            "t.me/MasterRingo10",
-            "t.me/grandcombat_bot",
-            "t.me/halyava_and_shemy",
-            "t.me/morrisandrey"
-        ]
-    },
-    {
-        "channel_name": "Knightron Crypto",
-        "channel_link": "https://www.youtube.com/channel/UCnPDCHW3809c93ngyYx9sDA",
-        "email": [
-            "knightroncrypto@gmail.com"
-        ],
-        "tg": [
-            "t.me/RizaAhnaf",
-            "t.me/nightroncrypto",
-            "t.me/morawaaha",
-            "t.me/knightron_crypto"
-        ]
-    },
-    {
-        "channel_name": "Crypto Education",
-        "channel_link": "https://www.youtube.com/channel/UCw82CzuCDcaPCzhQ3QI7CRw",
-        "email": [],
-        "tg": [
-            "t.me/grandcombat_bot",
-            "t.me/Cryptos_Education",
-            "t.me/grandcombat"
-        ]
-    },
-    {
-        "channel_name": "Earn Pay",
-        "channel_link": "https://www.youtube.com/channel/UC5A99CcvpBvXRgzNPE9fcHQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "TANWAR CRYPTO",
-        "channel_link": "https://www.youtube.com/channel/UCCAoSKWaRs-ji2ehATUTmog",
-        "email": [
-            "tanwarsaab1200@gmail.com"
-        ],
-        "tg": [
-            "t.me/CryptoTanwar",
-            "t.me/grandcombat_bot"
-        ]
-    },
-    {
-        "channel_name": "Cryptoland . 14k views . 2 hours ago ",
-        "channel_link": "https://www.youtube.com/channel/UCM90ufaZUPaSJhPcgumhjAQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "\u0414\u0435\u0442\u0430\u043b\u044c\u043a\u0430",
-        "channel_link": "https://www.youtube.com/channel/UCuJuLXc_ZZqA23uaJcuC0LQ",
-        "email": [],
-        "tg": [
-            "t.me/grandcombat_bot",
-            "t.me/deta1ka",
-            "t.me/Zaki_shop28_bot",
-            "t.me/msm031"
-        ]
-    },
-    {
-        "channel_name": "Everyday  Wealth",
-        "channel_link": "https://www.youtube.com/channel/UCVH7HkenSdiA-ExcYJXaEAQ",
-        "email": [],
-        "tg": [
-            "t.me/hamster_kombat_bot",
-            "t.me/tapswap_mirror_bot",
-            "t.me/pixel_wallet_bot",
-            "t.me/preton_drop_bot",
-            "t.me/bnbcoldwallet_bot",
             "t.me/pixelversexyzbot",
-            "t.me/grandcombat_bot",
+            "t.me/hamsTer_kombat_bot",
+            "t.me/Catizen_Mntbot",
             "t.me/memefi_coin_bot",
-            "t.me/hamsteR_kombat_bot",
-            "t.me/IcebergAppBot",
             "t.me/theYescoin_bot"
         ]
     },
     {
-        "channel_name": "Rizwan Blouch",
-        "channel_link": "https://www.youtube.com/channel/UCe1EepSiRd3t9DFtaiTRDkg",
-        "email": [],
-        "tg": [
-            "t.me/Rizwanblouch8766",
-            "t.me/Rizwanblouch"
-        ]
-    },
-    {
-        "channel_name": "Mining By Uzair",
-        "channel_link": "https://www.youtube.com/channel/UC17vd1LykjJioCYKnvEQTuA",
-        "email": [],
-        "tg": [
-            "t.me/miningbyuzair"
-        ]
-    },
-    {
-        "channel_name": "DAILY COMBO.X",
-        "channel_link": "https://www.youtube.com/channel/UCJKpxrgYNYQxZKm3BuVS7gQ",
+        "channel_name": "Technical Naseeb Ulhaq",
+        "channel_link": "https://www.youtube.com/channel/UC7eWGkP0177CzspsOHloWrA",
         "email": [
-            "imranraza039@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "DHIRAJ INFOTECH ",
-        "channel_link": "https://www.youtube.com/channel/UCplVdJqUAGKuJiv8uBoeBWg",
-        "email": [
-            "officialdhirajteam@gmail.com"
+            "Iqrarulhaq323@gmail.com"
         ],
         "tg": [
-            "t.me/Dhirajj12",
-            "t.me/blum"
+            "t.me/naseebulhaq"
         ]
     },
     {
-        "channel_name": "BANG ZONZ TUTORIAL",
-        "channel_link": "https://www.youtube.com/channel/UCaBADnTLNO2Fo1hLz2WfAqQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "RAJ CRYPTO ",
-        "channel_link": "https://www.youtube.com/channel/UCEQRDjm3V_PwMyJVfn9n1zw",
-        "email": [],
-        "tg": [
-            "t.me/muskempire_bot",
-            "t.me/BigEarningOfficial",
-            "t.me/dotcoin_bot",
-            "t.me/BlumCryptoBot",
-            "t.me/TimeFarmCryptoBot",
-            "t.me/hamster_koMbat_bot",
-            "t.me/tapswap_mirror_bot",
-            "t.me/grandcombat_bot",
-            "t.me/wcoin_tapbot",
-            "t.me/memefi_coin_bot"
-        ]
-    },
-    {
-        "channel_name": "WaterFred1",
-        "channel_link": "https://www.youtube.com/channel/UCHYMkLD2ru8IDq_Sf_Nu7Jw",
-        "email": [],
-        "tg": [
-            "t.me/duckscoop_bot",
-            "t.me/BlumCryptoBot",
-            "t.me/TimeFarmCryptoBot",
-            "t.me/catsgang_bot",
-            "t.me/cexio_tap_bot",
-            "t.me/grandcombat_bot",
-            "t.me/tapswap_bot",
-            "t.me/GleamRewardsBot",
-            "t.me/wcoin_tapbot",
-            "t.me/empirebot",
-            "t.me/clanofraidersbot",
-            "t.me/CyberFinanceBot",
-            "t.me/Simple_Tap_Bot",
-            "t.me/dgpub_bot",
-            "t.me/Tomarket_ai_bot",
-            "t.me/waterfred1official",
-            "t.me/realgoats_bot"
-        ]
-    },
-    {
-        "channel_name": "NextGen Success",
-        "channel_link": "https://www.youtube.com/channel/UCU96abX710-ZXmn2ik8HWIg",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "\ud835\udc06\ud835\udc1e\ud835\udc27 \ud835\udc19 \ud835\udc0a\ud835\udc22\u1ebf\ud835\udc26 \ud835\udc13\ud835\udc22\u1ec1\ud835\udc27",
-        "channel_link": "https://www.youtube.com/channel/UCSY0SqfpodUjeByNNa9wn7g",
+        "channel_name": "FAIYAZ KHAN",
+        "channel_link": "https://www.youtube.com/channel/UC5W59YkrSDUCm4uUnbEgDVg",
         "email": [
-            "genzktol@gmail.com"
+            "realzone123456@gmail.com"
         ],
         "tg": [
-            "t.me/genzkiemtienktol"
+            "t.me/gamersupport"
         ]
     },
     {
-        "channel_name": "Token Trend",
-        "channel_link": "https://www.youtube.com/channel/UCcs79TfbHkuXu6qMLddZzRg",
-        "email": [],
-        "tg": [
-            "t.me/Agent301Bot",
-            "t.me/major",
-            "t.me/tokentrendofficial",
-            "t.me/duckscoop_bot",
-            "t.me/BitsTonboxBot",
-            "t.me/wcoin_tapbot",
-            "t.me/empirebot",
-            "t.me/Tomarket_ai_bot",
-            "t.me/HipoGangBot",
-            "t.me/RatsKingdom_Bot",
-            "t.me/else_app_bot",
-            "t.me/blum",
-            "t.me/Binance_Moonbix_bot",
-            "t.me/catsgang_bot",
-            "t.me/Frogs_HouseBot",
-            "t.me/theZencoin_bot",
-            "t.me/owlsonton_bot",
-            "t.me/realgoats_bot",
-            "t.me/grandcombat_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/PigshouseBot",
-            "t.me/pocketfi_bot",
-            "t.me/Pandas_HouseBot"
-        ]
-    },
-    {
-        "channel_name": "Crypto and world news",
-        "channel_link": "https://www.youtube.com/channel/UCLtH7M8pckKkF3Y-C8j5K6A",
-        "email": [],
-        "tg": [
-            "t.me/grandcombat_bot"
-        ]
-    },
-    {
-        "channel_name": "ff 6969",
-        "channel_link": "https://www.youtube.com/channel/UC-dJ5njfs8V5qOqjx0_B0Ow",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "SMART EARNING HUB",
-        "channel_link": "https://www.youtube.com/channel/UCR3q7yRwLaY0c2WEnT31oAw",
-        "email": [],
-        "tg": [
-            "t.me/grandcombat_bot",
-            "t.me/Smartearninghubnkt"
-        ]
-    },
-    {
-        "channel_name": "Honey Patel",
-        "channel_link": "https://www.youtube.com/channel/UC_8KR9v8hm-JFFs9Knor1zQ",
+        "channel_name": "Danjo Capital Master",
+        "channel_link": "https://www.youtube.com/channel/UCWsnTNwgIPx-4_Ydcy8ANWA",
         "email": [
-            "honeypatelofficial@gmail.com"
+            "capitaldanjo@gmail.com",
+            "rennftmaster@gmail.com"
         ],
         "tg": [
-            "t.me/duckscoop_bot",
-            "t.me/dotcoin_bot",
-            "t.me/BlumCryptoBot",
-            "t.me/Catizen_Mntbot",
-            "t.me/tapswap_mirror_bot",
-            "t.me/catsgang_bot",
-            "t.me/HoneyPatelSingh",
-            "t.me/pixelversexyzbot",
-            "t.me/grandcombat_bot",
-            "t.me/dogshouse_bot",
-            "t.me/wcoin_tapbot",
-            "t.me/memefi_coin_bot",
-            "t.me/theYescoin_bot",
-            "t.me/BabyDogePAWS_Bot",
-            "t.me/EggTapper_bot",
-            "t.me/hamster_komBat_bot"
+            "t.me/danjocapitalmaster",
+            "t.me/danjocapital",
+            "t.me/tonthesheep_bot",
+            "t.me/TONtheSheepChat",
+            "t.me/TONtheSheep"
         ]
-    },
-    {
-        "channel_name": "Tiger Insight\u2122",
-        "channel_link": "https://www.youtube.com/channel/UC0Chb1nY68NFDFXB9SztsHA",
-        "email": [],
-        "tg": [
-            "t.me/hamster_kombat_bot",
-            "t.me/tapswap_mirror_bot",
-            "t.me/pixelversexyzbot",
-            "t.me/grandcombat_bot",
-            "t.me/theYescoin_bot",
-            "t.me/Nakedfirex",
-            "t.me/pixelverse_xyz",
-            "t.me/tigerinsight"
-        ]
-    },
-    {
-        "channel_name": "YarRamish",
-        "channel_link": "https://www.youtube.com/channel/UC2cIhJprvC-X4kGxAkk0Tiw",
-        "email": [],
-        "tg": [
-            "t.me/MuscatAirdropBot",
-            "t.me/wcoin_tapbot",
-            "t.me/memefi_coin_bot",
-            "t.me/chaincrops_bot"
-        ]
-    },
-    {
-        "channel_name": "Mirani Gamer",
-        "channel_link": "https://www.youtube.com/channel/UCyhWX-7YhDuHqAwAhATN5tw",
-        "email": [
-            "miranibusiness786@gmail.com"
-        ],
-        "tg": [
-            "t.me/MiraniGamer"
-        ]
-    },
-    {
-        "channel_name": "IITian in Crypto News Today",
-        "channel_link": "https://www.youtube.com/channel/UCn_kKh3Rxw0e6MK9oOBtdGQ",
-        "email": [
-            "team.iitianincrypto@gmail.com"
-        ],
-        "tg": [
-            "t.me/IITian_incrypto"
-        ]
-    },
-    {
-        "channel_name": "ParaHub",
-        "channel_link": "https://www.youtube.com/channel/UCaHpox6gGvfV693BlBsGf7A",
-        "email": [
-            "parahubiletisim@gmail.com"
-        ],
-        "tg": [
-            "t.me/BlumCryptoBot"
-        ]
-    },
-    {
-        "channel_name": "Crypto Mobi",
-        "channel_link": "https://www.youtube.com/channel/UCWu9nZmxCL1gmS8IHymPiZA",
-        "email": [],
-        "tg": [
-            "t.me/cap96"
-        ]
-    },
-    {
-        "channel_name": "Umut Aktu",
-        "channel_link": "https://www.youtube.com/channel/UCQJqiFOD3ye0ehLHQ_LZbwg",
-        "email": [
-            "Umut.Aktu5@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "\u0417\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u0439",
-        "channel_link": "https://www.youtube.com/channel/UCQqVcxqueZa8u9chxU64Dhw",
-        "email": [],
-        "tg": [
-            "t.me/za_rabotay1",
-            "t.me/zarabotay_yt"
-        ]
-    },
-    {
-        "channel_name": "\u0422\u042b \u041c\u0418\u041b\u041b\u0418\u041e\u041d\u0415\u0420",
-        "channel_link": "https://www.youtube.com/channel/UCDd0myIbSw-7kn76XPy4iMw",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "FredMiner ",
-        "channel_link": "https://www.youtube.com/channel/UCASYY3y4Iv9CIUQgwkfEvpA",
-        "email": [],
-        "tg": [
-            "t.me/FredMinerchat",
-            "t.me/FredMinerr",
-            "t.me/metaoasis",
-            "t.me/MomoAI_bot"
-        ]
-    },
-    {
-        "channel_name": "\u5c0f\u7530\u535a\u4e00",
-        "channel_link": "https://www.youtube.com/channel/UCQHL4Nv-MWE5Rr1joMYKGYg",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot"
-        ]
-    },
-    {
-        "channel_name": "KI\u1ebeM TI\u1ec0N KH\u00d4NG V\u1ed0N",
-        "channel_link": "https://www.youtube.com/channel/UCB8OE4A8Bm7EvT1u7f2DLYg",
-        "email": [],
-        "tg": [
-            "t.me/XBlastAppBot",
-            "t.me/timecoinbot",
-            "t.me/PlaySSSGameOfficialBot",
-            "t.me/herewalletbot",
-            "t.me/MomoAI_bot",
-            "t.me/tapswap_bot",
-            "t.me/notcoin_bot"
-        ]
-    },
-    {
-        "channel_name": "DUTA CRYPTO",
-        "channel_link": "https://www.youtube.com/channel/UCrtXSXcwRqUKTgQmd3gRThw",
-        "email": [
-            "dutacryptocom@gmail.com"
-        ],
-        "tg": [
-            "t.me/dutacryptoairdrop",
-            "t.me/dutacryptosignal"
-        ]
-    },
-    {
-        "channel_name": "LUGARD DIGITAL",
-        "channel_link": "https://www.youtube.com/channel/UCL83rtho5LeHYQHESfqYrXw",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/lugarddigita"
-        ]
-    },
-    {
-        "channel_name": "IKMANIOFFICIAL",
-        "channel_link": "https://www.youtube.com/channel/UClt7H948TCBz671RZqGQEDw",
-        "email": [],
-        "tg": [
-            "t.me/ikmaniofficial"
-        ]
-    },
-    {
-        "channel_name": "Ti\u1ec3u S\u01b0 Ph\u1ee5 Official",
-        "channel_link": "https://www.youtube.com/channel/UCxkk75gdv6Le7TiTVWAGmLw",
-        "email": [
-            "Tieusuphu7@gmail.com"
-        ],
-        "tg": [
-            "t.me/freecoin68",
-            "t.me/kiemtienbitcoin40"
-        ]
-    },
-    {
-        "channel_name": "\u0411\u0435\u0437\u0440\u0430\u0431\u043e\u0442\u043d\u044b\u0439 \u0418\u043d\u0432\u0435\u0441\u0442\u043e\u0440",
-        "channel_link": "https://www.youtube.com/channel/UCN80Z1Ijz-5Pz22An2W0Yaw",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/pikulaalukip",
-            "t.me/zarabotaemmv"
-        ]
-    },
-    {
-        "channel_name": "Junaid Atta",
-        "channel_link": "https://www.youtube.com/channel/UC_53feOHVRuduclAHqHgmzg",
-        "email": [
-            "officialprinceashu@gmail.com"
-        ],
-        "tg": [
-            "t.me/JunaidAtta0"
-        ]
-    },
-    {
-        "channel_name": "Earning STAR",
-        "channel_link": "https://www.youtube.com/channel/UC2XRu2Az940cl_ZlJnjsYCw",
-        "email": [],
-        "tg": [
-            "t.me/EarningStarPlus",
-            "t.me/EarningStarChat"
-        ]
-    },
-    {
-        "channel_name": "ETC Bangla",
-        "channel_link": "https://www.youtube.com/channel/UCc6ojuXE6D16de3q6m4M91A",
-        "email": [
-            "imran.official2518@gmail.com"
-        ],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/etcbanglaofficial",
-            "t.me/etcbnagla2518"
-        ]
-    },
-    {
-        "channel_name": "Skyvolk #\u0411\u0443\u0434\u043d\u0438\u041a\u0440\u0438\u043f\u0442\u0430\u043d\u0430",
-        "channel_link": "https://www.youtube.com/channel/UC2tZw78IrgFL7mybkKqdlBw",
-        "email": [],
-        "tg": [
-            "t.me/antizarplata"
-        ]
-    },
-    {
-        "channel_name": "AlemaoNFT",
-        "channel_link": "https://www.youtube.com/channel/UCHvowNc6TOIqFtKYVygY86w",
-        "email": [
-            "vivendodetradenareal@gmail.com"
-        ],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/VivendodeTradeComunidade",
-            "t.me/Vivendodetradereal",
-            "t.me/alemaonft"
-        ]
-    },
-    {
-        "channel_name": "XCoin New",
-        "channel_link": "https://www.youtube.com/channel/UChqgUMs4t4eRj01EE6srw8w",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/xcoinnew",
-            "t.me/PlaySSSGameOfficialBot",
-            "t.me/xcoinnew_chat"
-        ]
-    },
-    {
-        "channel_name": "Tech Explore By Hemu",
-        "channel_link": "https://www.youtube.com/channel/UCgxbY0DPMUBWMSjqjwVZVmw",
-        "email": [
-            "hemantgarg900@gmail.com"
-        ],
-        "tg": [
-            "t.me/MomoAI_bot"
-        ]
-    },
-    {
-        "channel_name": "Md Jewel Rana",
-        "channel_link": "https://www.youtube.com/channel/UCkoYJiAQnsEm5ofX-nUEmrg",
-        "email": [
-            "mdjewelranr@gmail.com"
-        ],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/income24chat",
-            "t.me/GTXAdmin",
-            "t.me/incomeb24"
-        ]
-    },
-    {
-        "channel_name": "BaTtLeX Crypto",
-        "channel_link": "https://www.youtube.com/channel/UCkRVPXOK4ywXGf7W0c0hj8g",
-        "email": [],
-        "tg": [
-            "t.me/c",
-            "t.me/battlex01"
-        ]
-    },
-    {
-        "channel_name": "Shenexlee",
-        "channel_link": "https://www.youtube.com/channel/UC17l3OO55WdzYPmrc24v_Vw",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/Shenexlee001"
-        ]
-    },
-    {
-        "channel_name": "FragTop",
-        "channel_link": "https://www.youtube.com/channel/UCHWWtqa2ot-DCqhU6NgUuBQ",
-        "email": [],
-        "tg": [
-            "t.me/XBlastAppBot",
-            "t.me/herewalletbot",
-            "t.me/timecoinbot",
-            "t.me/PlaySSSGameOfficialBot",
-            "t.me/MomoAI_bot",
-            "t.me/hamster_koMbat_bot",
-            "t.me/pixel_wallet_bot",
-            "t.me/vertus_app_bot",
-            "t.me/BullApp_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/MirWeb3",
-            "t.me/catizenbot"
-        ]
-    },
-    {
-        "channel_name": "Metacoin.newsvn",
-        "channel_link": "https://www.youtube.com/channel/UCq6ZtymU4BK_ydILIDnE5kg",
-        "email": [],
-        "tg": [
-            "t.me/herewalletbot",
-            "t.me/PlaySSSGameOfficialBot",
-            "t.me/MomoAI_bot",
-            "t.me/metacoin_Channels",
-            "t.me/wormfare_slap_bot"
-        ]
-    },
-    {
-        "channel_name": "Harry A7H",
-        "channel_link": "https://www.youtube.com/channel/UCrudo0kurF0pVXVHgUtDC3g",
-        "email": [
-            "Harry1a7h@gmail.com"
-        ],
-        "tg": [
-            "t.me/Harry_A7H"
-        ]
-    },
-    {
-        "channel_name": "EasyMoney",
-        "channel_link": "https://www.youtube.com/channel/UCVdVYbLQFKbNzQQqt4CF62w",
-        "email": [],
-        "tg": [
-            "t.me/EgorGolf",
-            "t.me/EasyMooney23"
-        ]
-    },
-    {
-        "channel_name": "Online Income Bangladesh",
-        "channel_link": "https://www.youtube.com/channel/UCvp7WS0sUVf3HDQ2uDG8jbQ",
-        "email": [
-            "kamaruzzamanemon4@gmail.com"
-        ],
-        "tg": [
-            "t.me/onlineincomebangladeshemon"
-        ]
-    },
-    {
-        "channel_name": "Earning Today Shakil",
-        "channel_link": "https://www.youtube.com/channel/UC3OdBUQxRtq-iadv550z6dw",
-        "email": [
-            "shakilkhankote@gmail.com"
-        ],
-        "tg": [
-            "t.me/SkShakilYT",
-            "t.me/SkShakilTV",
-            "t.me/EarningTodayShakilY",
-            "t.me/EarningTodayShakil"
-        ]
-    },
-    {
-        "channel_name": "Crypto parvaz",
-        "channel_link": "https://www.youtube.com/channel/UCnBvKt78jWLDVpE0t1o0MYA",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/timecoinbot",
-            "t.me/airdropparvaz",
-            "t.me/XBlastAppBot"
-        ]
-    },
-    {
-        "channel_name": "Dome 213",
-        "channel_link": "https://www.youtube.com/channel/UCiTRIdb2nt0DDPKCSkhO8cA",
-        "email": [
-            "Domemakeapp@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "Andrian desava",
-        "channel_link": "https://www.youtube.com/channel/UCSqYGan4qtpqXH6VjnFAVFg",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/AndrianDesava",
-            "t.me/andriandesava01"
-        ]
-    },
-    {
-        "channel_name": "XYZ Crypto",
-        "channel_link": "https://www.youtube.com/channel/UCy0mCq1XNdg8xBqoLd2YijA",
-        "email": [
-            "shorttechinfo@gmail.com"
-        ],
-        "tg": [
-            "t.me/X_Y_Z_Crypto"
-        ]
-    },
-    {
-        "channel_name": "MS Tech",
-        "channel_link": "https://www.youtube.com/channel/UC6DUypA6P8jIIFigGZfLHjg",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/mstechchannel"
-        ]
-    },
-    {
-        "channel_name": "CRYPTO HUNTER",
-        "channel_link": "https://www.youtube.com/channel/UChTr0bbJBh_5YKQ_AMXt2dw",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/AndrianDesava",
-            "t.me/andriandesava01"
-        ]
-    },
-    {
-        "channel_name": "\u0414\u0415\u041b\u0410\u0419 \u0414\u0415\u041d\u042c\u0413\u0418 ",
-        "channel_link": "https://www.youtube.com/channel/UCc2PSD6JfPd083pNV1lNanA",
-        "email": [],
-        "tg": [
-            "t.me/MomoAI_bot",
-            "t.me/to_the_makemoney",
-            "t.me/cryptokings_private_bot"
-        ]
-    },
-    {
-        "channel_name": "Talking Tom",
-        "channel_link": "https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "CAM-POP Galaxy Navatra",
-        "channel_link": "https://www.youtube.com/channel/UChGoGwMEfxmTH0djGFW-ynQ",
-        "email": [
-            "contact@navatra.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "Rotten Tomatoes Family",
-        "channel_link": "https://www.youtube.com/channel/UCx554p1Bu_Mp1q0H_bEtZ1Q",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "fnm04",
-        "channel_link": "https://www.youtube.com/channel/UCw00BI5Nm1nXxxbTsXHNaLg",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Bear Gaming Asia",
-        "channel_link": "https://www.youtube.com/channel/UC_8PMbe4bdSw6A8iwpAOL6g",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "That's My Story",
-        "channel_link": "https://www.youtube.com/channel/UCqU-0EYJY2ntcYwO0RgjftA",
-        "email": [
-            "hello@thatsmystory.tv"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "Talking Tom & Friends Brasil",
-        "channel_link": "https://www.youtube.com/channel/UCY9xIaF8CIdS23e0W6nHAmg",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "TLC",
-        "channel_link": "https://www.youtube.com/channel/UCqf2gzmKtH3PaAbt-qgFFsw",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "TraiNghiemGame",
-        "channel_link": "https://www.youtube.com/channel/UCjjP9CfuoCU0KJM5tJpSU1w",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "TapCoins",
-        "channel_link": "https://www.youtube.com/channel/UC48_pRHLeNPg8_ENSTvDZ6g",
-        "email": [],
-        "tg": [
-            "t.me/TapCoinsBot",
-            "t.me/theTapCoins"
-        ]
-    },
-    {
-        "channel_name": "Fiaspo",
-        "channel_link": "https://www.youtube.com/channel/UCPmKDdmHl5F7EvJGFoSHOwg",
-        "email": [
-            "contato@fiaspogames.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "KaelooOfficiel",
-        "channel_link": "https://www.youtube.com/channel/UCUFtJ_qQiSu399hLqvw9HTA",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "DangerouslyFunny",
-        "channel_link": "https://www.youtube.com/channel/UCudlnfkmb1LgK4tSgctPNOQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Nexus [GD]",
-        "channel_link": "https://www.youtube.com/channel/UCZwP1iUQiAKYQp5w-9mJb_w",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Agus Ampolleng",
-        "channel_link": "https://www.youtube.com/channel/UCXryo2HupOcdMFzDmO22TmQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "SHAYAN JAMAL",
-        "channel_link": "https://www.youtube.com/channel/UCTOyVb7BUOM_gmJ_OM5wqpw",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "The Code Gaming",
-        "channel_link": "https://www.youtube.com/channel/UCP37lKhYSTtLjh2LoCCPUeQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Star Sports",
-        "channel_link": "https://www.youtube.com/channel/UCmqfX0S3x0I3uwLkPdpX03w",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "JuniorE130",
-        "channel_link": "https://www.youtube.com/channel/UCuUtFs7TEOHoSz8E5e3EI8Q",
-        "email": [
-            "juniore130contact@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "RTBF iXP\u00e9",
-        "channel_link": "https://www.youtube.com/channel/UCTER7XOnDvSRbI2YxikLaVw",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Tech Raghav",
-        "channel_link": "https://www.youtube.com/channel/UC26P-5WTBXd78pAeQdYd7zg",
-        "email": [
-            "technicalraghav11@gmail.com"
-        ],
-        "tg": [
-            "t.me/BabluRaghav"
-        ]
-    },
-    {
-        "channel_name": "Experience JAPAN",
-        "channel_link": "https://www.youtube.com/channel/UCM0fFACS2gXFvEddnKJ7QpQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "TimeTon",
-        "channel_link": "https://www.youtube.com/channel/UCPwrG6mQWQutwuTScHEkh3g",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "TON Games",
-        "channel_link": "https://www.youtube.com/channel/UCnMRj2REtS0aBp2wJ4Pthgw",
-        "email": [],
-        "tg": []
     },
     {
         "channel_name": "Joshua Pack",
@@ -1365,370 +897,24 @@
         "tg": []
     },
     {
-        "channel_name": "Crypto4chun",
-        "channel_link": "https://www.youtube.com/channel/UC5xqLVHUsUt_MtFK8PISCQQ",
+        "channel_name": "Tiger Insight\u2122",
+        "channel_link": "https://www.youtube.com/channel/UC0Chb1nY68NFDFXB9SztsHA",
         "email": [],
         "tg": [
-            "t.me/OfficialOkXPhilippines",
-            "t.me/ChunTG",
-            "t.me/hamster_kombat_Bot",
-            "t.me/tapswap_mirror_2_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/Tomarket_ai_bot",
-            "t.me/blum"
+            "t.me/tigerinsight",
+            "t.me/Nakedfirex"
         ]
     },
     {
-        "channel_name": "marcoscm",
-        "channel_link": "https://www.youtube.com/channel/UCLv9iReydP8nFSjD5XCI1YA",
+        "channel_name": "Make Money Emmanuel",
+        "channel_link": "https://www.youtube.com/channel/UCnfE5qMx-qOMb2zTNtxs8wA",
         "email": [
-            "marcoscm.contact@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "Crypto Zone",
-        "channel_link": "https://www.youtube.com/channel/UCja4i0lt1sBUggu0N2Bz1Pw",
-        "email": [],
-        "tg": [
-            "t.me/cryptozone00",
-            "t.me/Cryptozone2221"
-        ]
-    },
-    {
-        "channel_name": "Technical Afsar",
-        "channel_link": "https://www.youtube.com/channel/UCNQ8V2UwBO3P7Pp8sCWnuMg",
-        "email": [],
-        "tg": [
-            "t.me/hamster_Kombat_bot"
-        ]
-    },
-    {
-        "channel_name": "Blaze",
-        "channel_link": "https://www.youtube.com/channel/UCx6mNaRZWdUr_u9dvVePJXw",
-        "email": [],
-        "tg": [
-            "t.me/blazenation"
-        ]
-    },
-    {
-        "channel_name": "Ubisoft Music",
-        "channel_link": "https://www.youtube.com/channel/UCdQavj042YyAEGP9cnBqFVQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Tech Hint",
-        "channel_link": "https://www.youtube.com/channel/UCYGCt9H8-co6-hhiGZWjfFA",
-        "email": [
-            "techhint786@gmail.com"
+            "kryptonemmanuel@gmail.com"
         ],
         "tg": [
-            "t.me/Cryptotrading2222",
-            "t.me/techhint786"
-        ]
-    },
-    {
-        "channel_name": "Tinku Sharma",
-        "channel_link": "https://www.youtube.com/channel/UCV2hMD9Fecx2xajQT_kIUVw",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Roanoke Gaming",
-        "channel_link": "https://www.youtube.com/channel/UCs8lYkna2S6DkcHO9o2008A",
-        "email": [
-            "roanokegamingsponsors@gmail.com",
-            "Roanokegamingsponsors@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "LUCCAS TOON GAMES",
-        "channel_link": "https://www.youtube.com/channel/UCFavCrh1No6Bkd0SRj8mqxA",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Trading Copter",
-        "channel_link": "https://www.youtube.com/channel/UCubNBasII91Hvy1wEmiljxQ",
-        "email": [
-            "adtechanil@gmail.com"
-        ],
-        "tg": [
-            "t.me/TradingCopterBusiness",
-            "t.me/haMster_kombat_bot",
-            "t.me/tradingcopter"
-        ]
-    },
-    {
-        "channel_name": "Crypto King Keyur",
-        "channel_link": "https://www.youtube.com/channel/UCE1RMPyR6yg0lFkZ94KaoFQ",
-        "email": [
-            "techwithkeyur@gmail.com"
-        ],
-        "tg": [
-            "t.me/CryptoKingKeyur",
-            "t.me/cherrygame_io_bot"
-        ]
-    },
-    {
-        "channel_name": "SMC KAPIL DEV",
-        "channel_link": "https://www.youtube.com/channel/UCofeO__YtpSnasJMcoA_MOA",
-        "email": [
-            "info@smckapildev.com"
-        ],
-        "tg": [
-            "t.me/herewalletbot",
-            "t.me/smc_Kapil_Dev",
-            "t.me/theYescoin_bot",
-            "t.me/notcoin_bot",
-            "t.me/realyescoinbot",
-            "t.me/hamster_kombat_bOt"
-        ]
-    },
-    {
-        "channel_name": "MemeFi Club",
-        "channel_link": "https://www.youtube.com/channel/UCY4FcPaaTP04GOVwzoruGhg",
-        "email": [],
-        "tg": [
-            "t.me/memefi_chat2",
-            "t.me/memeficlub",
-            "t.me/memefi_coin_bot",
-            "t.me/memefi_ru",
-            "t.me/memefi_chat"
-        ]
-    },
-    {
-        "channel_name": "Jude Umeano",
-        "channel_link": "https://www.youtube.com/channel/UChk5XERujwR2NXv1NXicvmQ",
-        "email": [
-            "hello@judeumeano.com"
-        ],
-        "tg": [
-            "t.me/afibiesignals",
-            "t.me/judeumeanoalphas",
-            "t.me/afibie"
-        ]
-    },
-    {
-        "channel_name": "Basic skill 420",
-        "channel_link": "https://www.youtube.com/channel/UCuuMrDwxC872ZlZtzv0DAEQ",
-        "email": [
-            "kawserhossen505@gmail.com"
-        ],
-        "tg": [
-            "t.me/basicskill420",
-            "t.me/memefi_coin_bot"
-        ]
-    },
-    {
-        "channel_name": "FunTech Doge",
-        "channel_link": "https://www.youtube.com/channel/UCp7ACom2qqfZzaIMIJw19IA",
-        "email": [
-            "emmshahid00@gmail.com"
-        ],
-        "tg": [
-            "t.me/findoluckybot",
-            "t.me/monorixbot",
-            "t.me/dotcoin_bot",
-            "t.me/gemzcoIn_bot",
-            "t.me/major",
-            "t.me/pixelversexyzbot",
-            "t.me/dogshouse_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/theYescoin_bot",
-            "t.me/Gleam_AquaProtocol_Bot",
-            "t.me/GleamRewardsBot",
-            "t.me/spell_wallet_bot",
-            "t.me/funtechdoge",
-            "t.me/rocky_rabbit_bot"
-        ]
-    },
-    {
-        "channel_name": "Dev Saifi",
-        "channel_link": "https://www.youtube.com/channel/UCXPiNpM8HP1AhI8Tm-qGC4g",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "Crypto Notes",
-        "channel_link": "https://www.youtube.com/channel/UChwiV3-_Gu57hxZg1EGnpUA",
-        "email": [
-            "cryptonotes@outlook.com"
-        ],
-        "tg": [
-            "t.me/cryptoNotesMohsin",
-            "t.me/memefi_coin_bot",
-            "t.me/blum",
-            "t.me/Binance_Moonbix_bot"
-        ]
-    },
-    {
-        "channel_name": "Crypto Wala Dost",
-        "channel_link": "https://www.youtube.com/channel/UCO0vUy3I4Xc5PQRdVA53wPQ",
-        "email": [
-            "thedmcbusiness137@gmail.com"
-        ],
-        "tg": [
-            "t.me/airdropculturetg",
-            "t.me/cryptowaladost"
-        ]
-    },
-    {
-        "channel_name": "All Bangla Earning ",
-        "channel_link": "https://www.youtube.com/channel/UClr5urgL-ZBuVytTzuox9-g",
-        "email": [
-            "allbanglaearning.contact@gmail.com"
-        ],
-        "tg": [
-            "t.me/allbanglatipshere",
-            "t.me/memefi_coin_bot"
-        ]
-    },
-    {
-        "channel_name": "Sanjay Tech",
-        "channel_link": "https://www.youtube.com/channel/UCZyc1Pa_hWeM8Vs0h8KbMrw",
-        "email": [
-            "sjyvlog.bd@gmail.com"
-        ],
-        "tg": [
-            "t.me/dotcoin_bot",
-            "t.me/tapcoinsbot",
-            "t.me/major",
-            "t.me/booms_io_bot",
-            "t.me/duckscoop_bot",
-            "t.me/tapswap_mirror_bot",
-            "t.me/BitsTonboxBot",
-            "t.me/wcoin_tapbot",
-            "t.me/empirebot",
-            "t.me/DNPSanjayOfficial",
-            "t.me/Tomarket_ai_bot",
-            "t.me/blum",
-            "t.me/gemzcOin_bot",
-            "t.me/seed_coin_bot",
-            "t.me/catsgang_bot",
-            "t.me/nikicoin_bot",
-            "t.me/Ton_kombat_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/tonstationgames_bot"
-        ]
-    },
-    {
-        "channel_name": "Gamer Support",
-        "channel_link": "https://www.youtube.com/channel/UC5W59YkrSDUCm4uUnbEgDVg",
-        "email": [
-            "realzone123456@gmail.com"
-        ],
-        "tg": [
-            "t.me/memefi_coin_bot",
-            "t.me/gamersupport"
-        ]
-    },
-    {
-        "channel_name": "Naeem Afridi",
-        "channel_link": "https://www.youtube.com/channel/UCdD80moOjQOvGq58CS4WXkw",
-        "email": [
-            "NaeemAfridisponsorship@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "Growith Bhavesh",
-        "channel_link": "https://www.youtube.com/channel/UC1LOZ2erj8pLsyb1duMQ5_w",
-        "email": [],
-        "tg": [
-            "t.me/cryptowithbhavesh"
-        ]
-    },
-    {
-        "channel_name": "Crypto Airdrops Hunter",
-        "channel_link": "https://www.youtube.com/channel/UCADAadLjvv3UdqUkhR3iUvQ",
-        "email": [],
-        "tg": []
-    },
-    {
-        "channel_name": "MILLIARDOM",
-        "channel_link": "https://www.youtube.com/channel/UCnqY1a2WoJyxMoJoZaURtYg",
-        "email": [],
-        "tg": [
-            "t.me/milliardombonus_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/milliardom"
-        ]
-    },
-    {
-        "channel_name": "Shafique Jaffery Official",
-        "channel_link": "https://www.youtube.com/channel/UCcTp1YG--_KMoovpRJeTrjA",
-        "email": [
-            "contactearnlearn@gmail.com"
-        ],
-        "tg": [
-            "t.me/memefi_coin_bot"
-        ]
-    },
-    {
-        "channel_name": "African Giant by Blessing Kolawole",
-        "channel_link": "https://www.youtube.com/channel/UCHtS6QCFejKIjQh3GwdiJ8w",
-        "email": [],
-        "tg": [
-            "t.me/memefi_coin_bot"
-        ]
-    },
-    {
-        "channel_name": "Technical Aleem",
-        "channel_link": "https://www.youtube.com/channel/UCEUdPXPSxZTpIGAdnqyWchg",
-        "email": [
-            "aleemkhanak0786@gmail.com"
-        ],
-        "tg": [
-            "t.me/technicalaleem",
-            "t.me/memefi_coin_bot",
-            "t.me/Binance_Moonbix_bot"
-        ]
-    },
-    {
-        "channel_name": "PUNHUN VLOGS",
-        "channel_link": "https://www.youtube.com/channel/UCkvZMi2AUWJWGgoVN8Yp7Eg",
-        "email": [],
-        "tg": [
-            "t.me/snaketon_bot"
-        ]
-    },
-    {
-        "channel_name": "JayGODWar",
-        "channel_link": "https://www.youtube.com/channel/UCF9DCdqOZyqkPlpBNWkWVsA",
-        "email": [
-            "earnmoneywitharjay@gmail.com"
-        ],
-        "tg": [
-            "t.me/jaygodwarcryptohub",
-            "t.me/5BmR5pJ5fDb",
-            "t.me/jaygodwarshilling",
-            "t.me/snaketon_bot",
-            "t.me/jaygodwar44"
-        ]
-    },
-    {
-        "channel_name": "CryptoLifestyle ",
-        "channel_link": "https://www.youtube.com/channel/UCXgI0hk591MGEKtzKC3jGlQ",
-        "email": [
-            "pgruzewski@gmail.com"
-        ],
-        "tg": [
-            "t.me/snaketon_bot",
-            "t.me/cryptolifestylenet",
-            "t.me/cryptolifestylechat"
-        ]
-    },
-    {
-        "channel_name": "NFT LABs",
-        "channel_link": "https://www.youtube.com/channel/UC06jukdbEi7_2h79Ohvs0Rw",
-        "email": [
-            "nftlabs.contato@gmail.com"
-        ],
-        "tg": [
-            "t.me/playNFTLABS"
+            "t.me/onlinemoneywithemmanuel",
+            "t.me/hamster_Kombat_bot",
+            "t.me/iamkrypton1"
         ]
     },
     {
@@ -1736,796 +922,428 @@
         "channel_link": "https://www.youtube.com/channel/UCspz8jBjOW1ZDP2GSq2USTA",
         "email": [],
         "tg": [
-            "t.me/snaketon_bot",
+            "t.me/dragonz_land_bot",
             "t.me/dorregooficial"
         ]
     },
     {
-        "channel_name": "Airdrop Detective",
-        "channel_link": "https://www.youtube.com/channel/UCjHCBRwt8I7ikK3OZWQTekQ",
-        "email": [],
-        "tg": [
-            "t.me/AirdropDetectiveSupport",
-            "t.me/SnakeTON_Airdrop_Bot",
-            "t.me/SnakeTon_Game",
-            "t.me/Bounty",
-            "t.me/SnakeTon_Community",
-            "t.me/AirdropDetective",
-            "t.me/AirdropDetectiveTeam",
-            "t.me/AirdropManager",
-            "t.me/Airdrop_Manager"
-        ]
-    },
-    {
-        "channel_name": "SnakeTON VN",
-        "channel_link": "https://www.youtube.com/channel/UC2u9mJZQlx2kTyfLmJdGo9A",
-        "email": [],
-        "tg": [
-            "t.me/SnakeTonVN",
-            "t.me/snaketon_bot"
-        ]
-    },
-    {
-        "channel_name": "Talles Carvalho - seu emprego em casa",
-        "channel_link": "https://www.youtube.com/channel/UCQ-oGNCUwCLje9WxixXyPgw",
+        "channel_name": "Channel of the Damned",
+        "channel_link": "https://www.youtube.com/channel/UCxt4wqUXiym6_Ak4i-NrzoA",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "CryptoLifestyle Polska",
-        "channel_link": "https://www.youtube.com/channel/UCysRUBCFhEDmc6kfV17IjPA",
-        "email": [
-            "pgruzewski@gmail.com"
-        ],
-        "tg": [
-            "t.me/smartdapps",
-            "t.me/snaketon_bot",
-            "t.me/cryptolifestylenet",
-            "t.me/cryptosmartdapps"
-        ]
-    },
-    {
-        "channel_name": "CRIPTOMANIAKOS - NFT",
-        "channel_link": "https://www.youtube.com/channel/UCEI0gwmMIbNHmSmsSSKWVow",
-        "email": [
-            "criptomaniakos@gmail.com"
-        ],
-        "tg": [
-            "t.me/snaketon_bot",
-            "t.me/criptomaniakxs"
-        ]
-    },
-    {
-        "channel_name": "Nddas emoji",
-        "channel_link": "https://www.youtube.com/channel/UCPP6CrW-gEBO3fBiBYZwmvA",
+        "channel_name": "PikZard Gaming 2.O",
+        "channel_link": "https://www.youtube.com/channel/UC-ocVtRU70cgNEJyM_mZxtg",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "ABC News",
-        "channel_link": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q",
+        "channel_name": "Token Tycoon",
+        "channel_link": "https://www.youtube.com/channel/UCME9pfPmIpkPeIilQkBFdfQ",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "Peekaboo Kidz",
-        "channel_link": "https://www.youtube.com/channel/UCxlJ45KjG4XVcQ_hd8j227A",
-        "email": [
-            "peekabookidzfeedback@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "KOG ROBIN",
-        "channel_link": "https://www.youtube.com/channel/UCLpzIYw519WCighhkZe-dfQ",
-        "email": [
-            "hritik10206@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "NTR Gamer",
-        "channel_link": "https://www.youtube.com/channel/UCTP5hQomLF8ccZ--1fd_8Ng",
-        "email": [
-            "ntrgamer90265@gmail.com"
-        ],
-        "tg": []
-    },
-    {
-        "channel_name": "Sheriff Network ",
-        "channel_link": "https://www.youtube.com/channel/UCIG7hvvz3_DPRq38VAs_c-w",
-        "email": [
-            "realsheriffnetwork@gmail.com"
-        ],
-        "tg": [
-            "t.me/hamster_kombat_bot",
-            "t.me/tapswap_mirror_bot",
-            "t.me/cexio_tap_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/theYescoin_bot",
-            "t.me/pocketfi_bot"
-        ]
-    },
-    {
-        "channel_name": "CoinVision \u00b7 10k views \u00b7 5 minutes ago\n\n\n\n\n...",
-        "channel_link": "https://www.youtube.com/channel/UCXxZAQs1asiQM_W1HIC1eBw",
-        "email": [
-            "sarnobatbhargav@gmail.com"
-        ],
-        "tg": [
-            "t.me/tapcoinsbot",
-            "t.me/TheBaboon_Bot",
-            "t.me/spell_wallet_bot",
-            "t.me/catidpawsbot",
-            "t.me/TimeFarmCryptoBot",
-            "t.me/tapswap_mirror_bot",
-            "t.me/wcoin_tapbot",
-            "t.me/Tomarket_ai_bot",
-            "t.me/hamster_kombat_bOt",
-            "t.me/gemzcOin_bot",
-            "t.me/catsgang_bot",
-            "t.me/chaincrops_bot",
-            "t.me/theHoldCoinBot",
-            "t.me/treasure_tapper_bot",
-            "t.me/theZencoin_bot",
-            "t.me/rocky_rabbit_bot",
-            "t.me/BIRDTonBot",
-            "t.me/oxygenminerbot",
-            "t.me/muskempire_bot",
-            "t.me/catgoldminerbot",
-            "t.me/dogshouse_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/Coin_Vision123"
-        ]
-    },
-    {
-        "channel_name": "MICHAEL RAJA",
-        "channel_link": "https://www.youtube.com/channel/UCu2eGaTfKpec4WrCofcL06g",
-        "email": [
-            "gamingmichaelraja@gmail.com"
-        ],
-        "tg": [
-            "t.me/earning_mind23"
-        ]
-    },
-    {
-        "channel_name": "Cat Gold Miner Official",
-        "channel_link": "https://www.youtube.com/channel/UCt9-L1mt18rBvcGU7jfrKhg",
-        "email": [],
-        "tg": [
-            "t.me/catgoldminerchat",
-            "t.me/catgoldminerchat2",
-            "t.me/catgoldminerbot",
-            "t.me/catgoldminerann"
-        ]
-    },
-    {
-        "channel_name": "ROWDY RATHORE",
-        "channel_link": "https://www.youtube.com/channel/UCcqreyeIiMhV057H5zmOPpw",
+        "channel_name": "Aevatrex",
+        "channel_link": "https://www.youtube.com/channel/UCwFWxZ6jYFZOQW1XwqENGWA",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "crypto bhai",
-        "channel_link": "https://www.youtube.com/channel/UCo3n7efJh1vYEwBEr_2fd_A",
-        "email": [],
-        "tg": [
-            "t.me/cryptobhai720",
-            "t.me/boost",
-            "t.me/pepegoldminer_bot"
-        ]
-    },
-    {
-        "channel_name": "Jarvish Tech Corner",
-        "channel_link": "https://www.youtube.com/channel/UCWf8-0yIOdxt9qTsQJUK8Aw",
+        "channel_name": "ItzVexo",
+        "channel_link": "https://www.youtube.com/channel/UCQzi4Q8AvCx2yV19ay0zRgQ",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "Online Help 360",
-        "channel_link": "https://www.youtube.com/channel/UCoHaBkoTU82qj57ukIN9OwA",
+        "channel_name": "Big Tycoon",
+        "channel_link": "https://www.youtube.com/channel/UC7JvWzJqdFrvwFrUAP_i85Q",
         "email": [
-            "Deshi.cocks@gmail.com",
-            "mehedi.onlinehelp360@gmail.com"
-        ],
-        "tg": [
-            "t.me/Onlinehelp360official",
-            "t.me/MehediHasanIshaan",
-            "t.me/techtips360",
-            "t.me/catgoldminerbot"
-        ]
-    },
-    {
-        "channel_name": "MrKia Team",
-        "channel_link": "https://www.youtube.com/channel/UCF7LMn8PY_y-ZjsePeGXJow",
-        "email": [],
-        "tg": [
-            "t.me/catgoldminerbot",
-            "t.me/mrkia7",
-            "t.me/mrkiateam"
-        ]
-    },
-    {
-        "channel_name": "\u041a\u0440\u0438\u043f\u0442\u043e \u0421\u0430\u043c\u0443\u0440\u0430\u0439",
-        "channel_link": "https://www.youtube.com/channel/UCgMR96hfNcuaFshqvrYmdTg",
-        "email": [],
-        "tg": [
-            "t.me/CryptoSamurai_1",
-            "t.me/catgoldminerbot"
-        ]
-    },
-    {
-        "channel_name": "Edwina Ineke",
-        "channel_link": "https://www.youtube.com/channel/UCv4XdXga_59-uneSxwM3Ecw",
-        "email": [
-            "Edwinaa.ineke@gmail.com"
-        ],
-        "tg": [
-            "t.me/InekeTradingCorner",
-            "t.me/open_league_bot",
-            "t.me/wallet",
-            "t.me/EdwinaInekeTelegram"
-        ]
-    },
-    {
-        "channel_name": "Herz ID",
-        "channel_link": "https://www.youtube.com/channel/UCMGboGQRsI1EultCcqncKig",
-        "email": [
-            "herzid7@gmail.com"
+            "info.bigtycoon@gmail.com"
         ],
         "tg": []
     },
     {
-        "channel_name": "maijun tarlando Sinaga",
-        "channel_link": "https://www.youtube.com/channel/UClR_2Nw4IVxWVekPt-UtDvQ",
+        "channel_name": "Movieclips",
+        "channel_link": "https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "Coinvestasi",
-        "channel_link": "https://www.youtube.com/channel/UCm45FOi_DZm-UFhj3VZUqdA",
-        "email": [],
-        "tg": [
-            "t.me/zkxindonesia",
-            "t.me/zkxcommunity",
-            "t.me/komunitascoinvestasi"
-        ]
-    },
-    {
-        "channel_name": "Ashu 0.9",
-        "channel_link": "https://www.youtube.com/channel/UC9V0cDQffC4Gst7fsygeKUw",
-        "email": [],
-        "tg": [
-            "t.me/ashu09a"
-        ]
-    },
-    {
-        "channel_name": "Crypto And Android Apps",
-        "channel_link": "https://www.youtube.com/channel/UCEtCGrc2JB_N3WcgLxaqbcg",
-        "email": [],
-        "tg": [
-            "t.me/holdwallet_bot",
-            "t.me/dotcoin_bot",
-            "t.me/BlumCryptoBot",
-            "t.me/pepe_miner_game_bot",
-            "t.me/theYescoin_bot",
-            "t.me/Simple_Tap_Bot",
-            "t.me/bounceton_bot",
-            "t.me/TimeFarmCryptoBot",
-            "t.me/sphynxmeme_bot",
-            "t.me/cedex_tap_bot",
-            "t.me/wcoin_tapbot",
-            "t.me/tomo_cat_bot",
-            "t.me/hamster_kombat_bot",
-            "t.me/TimeTONbot",
-            "t.me/mineralzbot",
-            "t.me/seed_coin_bot",
-            "t.me/waveonsuibot",
-            "t.me/vertus_app_bot",
-            "t.me/yescoingame_bot",
-            "t.me/pixelversexyzbot",
-            "t.me/xficonsolebot",
-            "t.me/TigerNetwork_bot",
-            "t.me/hexn_bot",
-            "t.me/Poplaunchbot",
-            "t.me/EarthcoinApp_bot",
-            "t.me/XBlastAppBot",
-            "t.me/nikicoin_bot",
-            "t.me/DailyWalletBot",
-            "t.me/tapswap_bot",
-            "t.me/gemZcoin_bot",
-            "t.me/whitebunnywtf_bot",
-            "t.me/pocketfi_bot"
-        ]
-    },
-    {
-        "channel_name": "GHONISKY",
-        "channel_link": "https://www.youtube.com/channel/UCOROzSt3QJOWLUyqHGB-Iig",
-        "email": [],
-        "tg": [
-            "t.me/ytghonisky"
-        ]
-    },
-    {
-        "channel_name": "Technical Shamsher",
-        "channel_link": "https://www.youtube.com/channel/UCc91kPew5zRCftMYw-llHQw",
+        "channel_name": "Golden Goose",
+        "channel_link": "https://www.youtube.com/channel/UCr7NFN6as15Gd_tiLXYLmeA",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "HARIS MUNIRY",
-        "channel_link": "https://www.youtube.com/channel/UCPVQ_tgryksQxM80u7Gc04Q",
-        "email": [],
-        "tg": [
-            "t.me/hamster_kombat_bot",
-            "t.me/timecoinbot",
-            "t.me/DailyWalletBot",
-            "t.me/AirdropTelegramTon",
-            "t.me/HarisMuniry",
-            "t.me/tapswap_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/theYescoin_bot",
-            "t.me/catizenbot"
-        ]
-    },
-    {
-        "channel_name": "Crypto Bharat",
-        "channel_link": "https://www.youtube.com/channel/UCJ24hWPGQ4ooMKu-gprxWDA",
-        "email": [
-            "Cryptobharat123@gmail.com"
-        ],
-        "tg": [
-            "t.me/CryptoBharatArup"
-        ]
-    },
-    {
-        "channel_name": "Yescoin",
-        "channel_link": "https://www.youtube.com/channel/UCbjICnjWVjau7g3QclXxXfA",
-        "email": [],
-        "tg": [
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Bangla Tutorial 99",
-        "channel_link": "https://www.youtube.com/channel/UCWb53iLTnc5TioQ9hTDoDyQ",
-        "email": [],
-        "tg": [
-            "t.me/banglatutorial99",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Solution Spark",
-        "channel_link": "https://www.youtube.com/channel/UCd5XN3AP4awZFI88Ndz0tWg",
-        "email": [],
-        "tg": [
-            "t.me/premiummillioner",
-            "t.me/Solutionspark1"
-        ]
-    },
-    {
-        "channel_name": "Technicalshahbaz . 200k views . 2 hour ago \n\n\n\n...",
-        "channel_link": "https://www.youtube.com/channel/UC4A2os_--rTG3cf7lU0_nhQ",
-        "email": [],
-        "tg": [
-            "t.me/Technicalshahbaz1",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Archie Lim",
-        "channel_link": "https://www.youtube.com/channel/UCXiGsPI-lHGsvCIB0nYensg",
-        "email": [
-            "archieb.lim@gmail.com"
-        ],
-        "tg": [
-            "t.me/archiealpha"
-        ]
-    },
-    {
-        "channel_name": "CRYPTOLAMER",
-        "channel_link": "https://www.youtube.com/channel/UCtENvc5Xh0NRrduwxv_ztjg",
-        "email": [],
-        "tg": [
-            "t.me/cryptolamer_news",
-            "t.me/kryptolamer",
-            "t.me/rucatizen",
-            "t.me/yescoingame_bot"
-        ]
-    },
-    {
-        "channel_name": "Online Income BD",
-        "channel_link": "https://www.youtube.com/channel/UCnMiUUfs-XNInQ4vH8DmXrQ",
-        "email": [
-            "sponsory69@gmail.com"
-        ],
-        "tg": [
-            "t.me/onlineincomebdtelegramchannel",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Litan Tech",
-        "channel_link": "https://www.youtube.com/channel/UCq-V3pZf8UxXKZJSGSQWmkQ",
-        "email": [
-            "akshsharma929@gmail.com"
-        ],
-        "tg": [
-            "t.me/litantech",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Arafat Tech 1",
-        "channel_link": "https://www.youtube.com/channel/UCKgm5Vnav1WWYA4Zhxo709g",
-        "email": [
-            "arafatarafathossein@gmail.com"
-        ],
-        "tg": [
-            "t.me/arafattech100",
-            "t.me/arafattech1support"
-        ]
-    },
-    {
-        "channel_name": "Anthony Alvarez",
-        "channel_link": "https://www.youtube.com/channel/UCQtmGE11Sany67tSgTPg1DQ",
-        "email": [],
-        "tg": [
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Isaac Aimufua",
-        "channel_link": "https://www.youtube.com/channel/UCsxBnzti8nUymV9h-mIPwJQ",
-        "email": [],
-        "tg": [
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "shahab show",
-        "channel_link": "https://www.youtube.com/channel/UCAmw4PwnTzHKBxqF7jU7Sug",
-        "email": [],
-        "tg": [
-            "t.me/joinchat"
-        ]
-    },
-    {
-        "channel_name": "Earning Tech S",
-        "channel_link": "https://www.youtube.com/channel/UCsyGQuCsF23dR_zs6ycvxsg",
-        "email": [],
-        "tg": [
-            "t.me/EarningTechS0",
-            "t.me/EarningtechS0",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "RK INCOME ZONE ",
-        "channel_link": "https://www.youtube.com/channel/UC_0nJvGu9azvHzwnjmGG-4A",
-        "email": [],
-        "tg": [
-            "t.me/techrakibbd"
-        ]
-    },
-    {
-        "channel_name": "7% Uang Digital",
-        "channel_link": "https://www.youtube.com/channel/UCpRdMvkRdOXFnB43W7CWfgQ",
-        "email": [],
-        "tg": [
-            "t.me/pengepulreceh07",
-            "t.me/gratisan_recehan"
-        ]
-    },
-    {
-        "channel_name": "BANG JAMET",
-        "channel_link": "https://www.youtube.com/channel/UCn2u_UT835evT88GK7jpcjA",
-        "email": [],
-        "tg": [
-            "t.me/airdrop_hunter02",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Ali Khan Official",
-        "channel_link": "https://www.youtube.com/channel/UCKaHysCf4zHUoBHwDqJPqaw",
-        "email": [],
-        "tg": [
-            "t.me/Alikhancommunity",
-            "t.me/Sharifcryptopashto"
-        ]
-    },
-    {
-        "channel_name": "Crypto Cab",
-        "channel_link": "https://www.youtube.com/channel/UCmDEzag7a9cGuJYs-SQcT4w",
-        "email": [
-            "talkdost@gmail.com",
-            "Talkdost@gmail.com"
-        ],
-        "tg": [
-            "t.me/TalkDost"
-        ]
-    },
-    {
-        "channel_name": "Bornstar",
-        "channel_link": "https://www.youtube.com/channel/UCqp5aRdOER-1juEdI7vks-g",
-        "email": [],
-        "tg": [
-            "t.me/notpixel",
-            "t.me/Dogiators_bot",
-            "t.me/theYescoin_bot",
-            "t.me/bornstar_a",
-            "t.me/hrummebot",
-            "t.me/blum"
-        ]
-    },
-    {
-        "channel_name": "IBM Tech Studio",
-        "channel_link": "https://www.youtube.com/channel/UC0ckYsL_yhJ0I71omtdFhVQ",
-        "email": [
-            "ibrahimmolla040@gmail.com"
-        ],
-        "tg": [
-            "t.me/ibmtechstudio",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Kripto Ofis",
-        "channel_link": "https://www.youtube.com/channel/UC5EeIngnx87RwS1bEwNVJIg",
-        "email": [],
-        "tg": [
-            "t.me/theYescoin_bot",
-            "t.me/kriptoofis"
-        ]
-    },
-    {
-        "channel_name": "Technical Alok",
-        "channel_link": "https://www.youtube.com/channel/UC0Fnb2Bvb0ig-Pky9dQ-19g",
-        "email": [
-            "--------mynewshop3@gmail.com"
-        ],
-        "tg": [
-            "t.me/technicalalok"
-        ]
-    },
-    {
-        "channel_name": "The TecH Pro",
-        "channel_link": "https://www.youtube.com/channel/UCYBfVX0v_uh0mz9RJZVwKhw",
-        "email": [
-            "mnmmasum2019@gmail.com"
-        ],
-        "tg": [
-            "t.me/thetechproofficial123",
-            "t.me/Masum5500",
-            "t.me/TheTecHProOfficial"
-        ]
-    },
-    {
-        "channel_name": "Online Income 24",
-        "channel_link": "https://www.youtube.com/channel/UCQAOR9CBrw_Mk-CFi5IhtBw",
-        "email": [
-            "metooboss1@gmail.com"
-        ],
-        "tg": [
-            "t.me/onlineincome24",
-            "t.me/moynol"
-        ]
-    },
-    {
-        "channel_name": "Sola Drop",
-        "channel_link": "https://www.youtube.com/channel/UCp-VGbroGEVfaFOnL5HgiSA",
+        "channel_name": "\ubca0\ud2f0\ubc84 \ub9ac\uc0ac\uc774\ud074 \uc2a4\ud29c\ub514\uc624 VETIVER Recycle Studio",
+        "channel_link": "https://www.youtube.com/channel/UCXZhtAgjm-dvD0fQoufRSzg",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "Crypto Pearl",
-        "channel_link": "https://www.youtube.com/channel/UCwTEsd8CTu2zNv6xVpJvkzg",
-        "email": [
-            "contactcryptopearls@gmail.com"
-        ],
-        "tg": [
-            "t.me/duckscoop_bot",
-            "t.me/Tomarket_ai_bot",
-            "t.me/notpixel",
-            "t.me/catsgang_bot",
-            "t.me/cryptopearls0",
-            "t.me/major",
-            "t.me/memefi_coin_bot",
-            "t.me/theYescoin_bot",
-            "t.me/empirebot",
-            "t.me/RatsKingdom_Bot",
-            "t.me/blum",
-            "t.me/realgoats_bot"
-        ]
-    },
-    {
-        "channel_name": "Airdrop \u0130stanbul",
-        "channel_link": "https://www.youtube.com/channel/UC9ty7l1q0qwcyJxN16Q9I_Q",
-        "email": [],
-        "tg": [
-            "t.me/airdropistanbulduyuru",
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Income Source YT",
-        "channel_link": "https://www.youtube.com/channel/UCYjJko9fDtjA2hcTSqnsjCg",
-        "email": [
-            "rlalaminhossain@gmail.com"
-        ],
-        "tg": [
-            "t.me/incomeso",
-            "t.me/incomesourceyt"
-        ]
-    },
-    {
-        "channel_name": "Bhustle",
-        "channel_link": "https://www.youtube.com/channel/UCVv7HSi5QPjyvjG39MhDLGA",
-        "email": [],
-        "tg": [
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "Income Solution 23",
-        "channel_link": "https://www.youtube.com/channel/UCvI4jWSWQH-2t5D1VOpfHDw",
-        "email": [
-            "sajidakterbishal@gmail.com"
-        ],
-        "tg": [
-            "t.me/AlaminHelpcenter4"
-        ]
-    },
-    {
-        "channel_name": "Kripto Albay - Blockchain, Gems & Airdrops",
-        "channel_link": "https://www.youtube.com/channel/UCawZr-474Q-pnju6y-Fwh0Q",
-        "email": [],
-        "tg": [
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "ODES \u2192 All about crypto",
-        "channel_link": "https://www.youtube.com/channel/UCU3OSgdjr41Sz_qXippsNDQ",
+        "channel_name": "Connor Price",
+        "channel_link": "https://www.youtube.com/channel/UCDzdCE9XbxTbgvuVdhbLtOQ",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "Jurnalis Crypto",
-        "channel_link": "https://www.youtube.com/channel/UCzPMkme9p3ESyUcOZCXJWcQ",
-        "email": [],
-        "tg": [
-            "t.me/dotcoin_bot",
-            "t.me/BlumCryptoBot",
-            "t.me/hamster_koMbat_bot",
-            "t.me/major",
-            "t.me/MatchQuestBot",
-            "t.me/theYescoin_bot",
-            "t.me/jurnaliscryptochannel",
-            "t.me/duckscoop_bot",
-            "t.me/herewalletbot",
-            "t.me/jurnaliscrypto",
-            "t.me/sphynxmeme_bot",
-            "t.me/wcoin_tapbot",
-            "t.me/catizenbot",
-            "t.me/seed_coin_bot",
-            "t.me/pixelversexyzbot",
-            "t.me/rocky_rabbit_bot",
-            "t.me/lost_dogs_bot",
-            "t.me/dogshouse_bot",
-            "t.me/tapswap_bot",
-            "t.me/memefi_coin_bot",
-            "t.me/crlairdropbot",
-            "t.me/BabyDogePAWS_Bot",
-            "t.me/gamee"
-        ]
-    },
-    {
-        "channel_name": "Technical Robiulla",
-        "channel_link": "https://www.youtube.com/channel/UCgiyMY1kTFL_ExUGg5WYVxg",
-        "email": [],
-        "tg": [
-            "t.me/technicalrobiulla360",
-            "t.me/technicalrobiulla60"
-        ]
-    },
-    {
-        "channel_name": "Blog C\u1ee7a H\u1ea3i",
-        "channel_link": "https://www.youtube.com/channel/UCKYntSZQPIxX89Qs2WZOhmw",
-        "email": [
-            "blogcuahaimmo@gmail.com"
-        ],
-        "tg": [
-            "t.me/theYescoin_bot"
-        ]
-    },
-    {
-        "channel_name": "BD TecH SchooL",
-        "channel_link": "https://www.youtube.com/channel/UCky5KGkn8NRc1AEPHX9ruBw",
-        "email": [
-            "mbrimankhan504@gmail.com",
-            "kmshakilvai@gmail.com"
-        ],
-        "tg": [
-            "t.me/kmshakil8622",
-            "t.me/theYescoin_bot",
-            "t.me/bdtechschool"
-        ]
-    },
-    {
-        "channel_name": "Seeker GK",
-        "channel_link": "https://www.youtube.com/channel/UCwYz6NLOQIGpgxk1HvvHXjQ",
+        "channel_name": "Pixel Gun Music",
+        "channel_link": "https://www.youtube.com/channel/UCsdu6Ukx2PeFdNtte9yroBw",
         "email": [],
         "tg": []
     },
     {
-        "channel_name": "Yunepto",
-        "channel_link": "https://www.youtube.com/channel/UC2i2CverfKAwLEOkDE6vGtg",
+        "channel_name": "JustSpawn",
+        "channel_link": "https://www.youtube.com/channel/UCy43AgaCjcZazgnMI2EA1eA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Aavak",
+        "channel_link": "https://www.youtube.com/channel/UCqvU9Uxf_8YJOq67S6qcrFw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Pixel Pirates",
+        "channel_link": "https://www.youtube.com/channel/UC1yjEkhSQ8hN-9qXk32Mrtw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "PIXEL ECKO",
+        "channel_link": "https://www.youtube.com/channel/UCkF4_4rR1tPkBh1nMdIpz1g",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "OverClocked ReMix: Video Game Music Community",
+        "channel_link": "https://www.youtube.com/channel/UC8Wh7qpPGJm3K1eZ6DHjpKA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Lathland",
+        "channel_link": "https://www.youtube.com/channel/UCFLXUteuWTuXIjxf2OpKC4A",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Marly Games",
+        "channel_link": "https://www.youtube.com/channel/UCgcyynnBkssu6rhzivT6c8w",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "silverfish VT",
+        "channel_link": "https://www.youtube.com/channel/UCieVOyn2vxplY2WbrscgASQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Channel AchuNachu Taste&Travels",
+        "channel_link": "https://www.youtube.com/channel/UC-fC8n00FZ8auOZHc1TETmQ",
+        "email": [],
+        "tg": [
+            "t.me/KrishGanesh2021"
+        ]
+    },
+    {
+        "channel_name": "Marvel Entertainment",
+        "channel_link": "https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Marvel Universe Entertainment",
+        "channel_link": "https://www.youtube.com/channel/UCiV5HYQ4OCPK6z2MiybLpEw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "MovieGasm.com",
+        "channel_link": "https://www.youtube.com/channel/UCwBV-eg1dAkzrdjqJfyEj0w",
         "email": [
-            "yunepto.business@gmail.com"
+            "CEO@MovieGasm.com"
         ],
         "tg": []
     },
     {
-        "channel_name": "VEN BUSINESS",
-        "channel_link": "https://www.youtube.com/channel/UC4L0SjMBOA3NfvIK_V0Pgsg",
+        "channel_name": "I'm Tom",
+        "channel_link": "https://www.youtube.com/channel/UC6wxiwLwbv9d900q44NSrGA",
         "email": [],
-        "tg": [
-            "t.me/theyescoin_fam",
-            "t.me/theYescoin_bot",
-            "t.me/venbusiness",
-            "t.me/your_realmoney"
-        ]
+        "tg": []
     },
     {
-        "channel_name": "Crypto Ashok",
-        "channel_link": "https://www.youtube.com/channel/UCQ43_Jh7kqfQhWrUwFOHecA",
+        "channel_name": "\uc2a4\ud3ec\uce20\uc911\uacc4 \ubaa8\ubca0\ucee4\ud2f0\ube44",
+        "channel_link": "https://www.youtube.com/channel/UC1XK35EfgNew1z9n3Ml2tXg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Seniorfleaks",
+        "channel_link": "https://www.youtube.com/channel/UCLANsVuaarmfmcoKvV9iJhQ",
         "email": [
-            "ashokraj580166@gmail.com"
+            "gurkankisisel@gmail.com"
         ],
         "tg": []
     },
     {
-        "channel_name": "Ki\u1ebfm Ti\u1ec1n Online C\u00f9ng H\u1ea3i",
-        "channel_link": "https://www.youtube.com/channel/UCGIFnkvdZMX4-Ys9-kKenNQ",
+        "channel_name": "starkeeper__",
+        "channel_link": "https://www.youtube.com/channel/UCyDNxUwLNhvoZbXxTd0BndA",
         "email": [],
-        "tg": [
-            "t.me/theYescoin_bot",
-            "t.me/reviewmmo"
-        ]
+        "tg": []
     },
     {
-        "channel_name": "Local Dev",
-        "channel_link": "https://www.youtube.com/channel/UCvgQipPRO_sp0cl2hNv7rpA",
+        "channel_name": "VANDA FIND GOLD",
+        "channel_link": "https://www.youtube.com/channel/UCh-UwhTMl5P8bbqf5tQWt2w",
         "email": [],
-        "tg": [
-            "t.me/dotcoin_bot",
-            "t.me/hamster_kombaT_bot",
-            "t.me/Shuttle_ton_bot",
-            "t.me/tapswap_mirror_1_bot",
-            "t.me/wcoin_tapbot",
-            "t.me/theYescoin_bot",
-            "t.me/catizenbot"
-        ]
+        "tg": []
     },
     {
-        "channel_name": "Fulltime \u041a\u0440\u0438\u043f\u0442\u043e",
-        "channel_link": "https://www.youtube.com/channel/UCpNn_cr6TzywbHGchGAFzfA",
+        "channel_name": "Crystal Miner Rocks",
+        "channel_link": "https://www.youtube.com/channel/UC3ihSpVM4NrcM5785j0H4FA",
         "email": [],
-        "tg": [
-            "t.me/fulltimecrypto365",
-            "t.me/realyescoinbot"
-        ]
+        "tg": []
     },
     {
-        "channel_name": "Umesh Crypto Expert",
-        "channel_link": "https://www.youtube.com/channel/UCBsxlZud7b37jbH-5CXHnAQ",
+        "channel_name": "Diggin' with D and P",
+        "channel_link": "https://www.youtube.com/channel/UCdSW_4zMw6_Wp97QJE7Nd4g",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "JKrew Gaming",
+        "channel_link": "https://www.youtube.com/channel/UCpbvCjJ68yt_N2WUpufLaCQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Reekado Banks",
+        "channel_link": "https://www.youtube.com/channel/UC9gtxrBHZhEkpXSWfqwjLkg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Boo Clipping",
+        "channel_link": "https://www.youtube.com/channel/UCMmpDpZsvKISc7K1u59V2Iw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Tamil Gamers",
+        "channel_link": "https://www.youtube.com/channel/UCRcy17KpXIrljYi4cvygXMg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "GEM Sisters",
+        "channel_link": "https://www.youtube.com/channel/UCh-CbDBklcdaPbhQKXEhJ7A",
         "email": [
-            "uyadav73938@gmail.com",
-            "Uyadav73938@gmail.com"
+            "business@gemsisters.co"
         ],
+        "tg": []
+    },
+    {
+        "channel_name": "Akari Gaming",
+        "channel_link": "https://www.youtube.com/channel/UCcOsD3jivt066WJVgC2SRUA",
+        "email": [
+            "akarigaming66@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "The Techne",
+        "channel_link": "https://www.youtube.com/channel/UCHU2VaRKaxqDnjP3spyD0KQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "JAMOT GAMING",
+        "channel_link": "https://www.youtube.com/channel/UC7WPL--E0Iq0611fXzcexBQ",
+        "email": [
+            "Jamot255@gmail.com"
+        ],
+        "tg": [
+            "t.me/Jamotgamingyt"
+        ]
+    },
+    {
+        "channel_name": "NIRAJGAMING99",
+        "channel_link": "https://www.youtube.com/channel/UCAl4tQNF49qmLAhbEAjrW4w",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "mayrushart",
+        "channel_link": "https://www.youtube.com/channel/UCJI-CtBCPVCSRPjmBnlbkvQ",
+        "email": [
+            "mayrushartwork@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Gravycatman",
+        "channel_link": "https://www.youtube.com/channel/UC3E8z5P4FemGLQRXixxHL3g",
+        "email": [
+            "businessgravycatman@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Gaijin Goombah",
+        "channel_link": "https://www.youtube.com/channel/UCxNcCtPqqGIMEDwDACPVoHg",
+        "email": [
+            "gaijingoombah@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "LTkrazy",
+        "channel_link": "https://www.youtube.com/channel/UCTV0KJ5xXLK8WRU8zDq-mWg",
+        "email": [
+            "LTkrazyy@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "TheMarleyChannel",
+        "channel_link": "https://www.youtube.com/channel/UCoeQgYsUbg658n2eruEpsrw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "BBC News",
+        "channel_link": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "MIgardener",
+        "channel_link": "https://www.youtube.com/channel/UCVGVbOl6F5rGF4wSYS6Y5yQ",
+        "email": [
+            "contact@migardener.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Gary Pilarchik (The Rusted Garden)",
+        "channel_link": "https://www.youtube.com/channel/UCptL6_qMImyW_yZwiMjQdpg",
+        "email": [
+            "therustedgardenmerch@gmail.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Pak Crafting Space",
+        "channel_link": "https://www.youtube.com/channel/UCgvfhF8JIlgwT9kxkjjB4IA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Becoming a Farm Girl",
+        "channel_link": "https://www.youtube.com/channel/UCyDPTQMaRk_Z6k76M0BP-8w",
+        "email": [
+            "cassandra@becomingafarmgirl.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Jessie\u2019s playhouse Toys",
+        "channel_link": "https://www.youtube.com/channel/UCDYhE9JlPCp9F_ulbJb83JA",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "ClawD00d",
+        "channel_link": "https://www.youtube.com/channel/UCdQ3VoDGjjl3NsfB3V0mPng",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "KBS WORLD TV",
+        "channel_link": "https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Nobel Peace Prize Concert",
+        "channel_link": "https://www.youtube.com/channel/UCW1hKNIS3IQVM9NYyhv9vSQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Polar Music Prize",
+        "channel_link": "https://www.youtube.com/channel/UCmBvJ9D5PVj3vjbBO2O4PCg",
+        "email": [
+            "licensing@polarmusicprize.org"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "VuJae",
+        "channel_link": "https://www.youtube.com/channel/UCstrYVM0-fSq3i2JJvaubBg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "WildFilmsIndia",
+        "channel_link": "https://www.youtube.com/channel/UCixvwLpO_pk4uVOkkkqP3Mw",
+        "email": [
+            "admin@wildfilmsindia.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "Disney Jr. ",
+        "channel_link": "https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "BBC Earth",
+        "channel_link": "https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Skeptoe",
+        "channel_link": "https://www.youtube.com/channel/UC9F7Ar4XrwI4UILV-3CR7fQ",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "GeminiTay",
+        "channel_link": "https://www.youtube.com/channel/UCUBsjvdHcwZd3ztdY1Zadcw",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "Jeffington",
+        "channel_link": "https://www.youtube.com/channel/UCQjRrZUoyWPVlBo9wTFMG4g",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "New Rockstars",
+        "channel_link": "https://www.youtube.com/channel/UC7yRILFFJ2QZCykymr8LPwA",
+        "email": [
+            "business@nrdigitalstudios.com"
+        ],
+        "tg": []
+    },
+    {
+        "channel_name": "ScreenCrush",
+        "channel_link": "https://www.youtube.com/channel/UCgMJGv4cQl8-q71AyFeFmtg",
+        "email": [],
+        "tg": []
+    },
+    {
+        "channel_name": "PearlescentMoon",
+        "channel_link": "https://www.youtube.com/channel/UC1GJ5aeqpEWklMBQ3oXrPQQ",
+        "email": [],
         "tg": []
     }
 ]

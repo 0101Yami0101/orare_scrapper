@@ -24,11 +24,40 @@ if __name__== '__main__':
 
     # Youtube PROCESS
     queries = [
-        'Yescoin',
-        'Yescoin',
-        'Yescoin Airdrop',
-        'Yescoin Game'
-        ]
+    "SEED App - Mine SEED",
+    "Rocky Rabbit",
+    "GAMEE Ton Telegram",
+    "Clayton",
+    "TON Station",
+    "Tongotchi",
+    "CITY Holder",
+    "Dotcoin",
+    "Boinkers Parody Game",
+    "TapCoins",
+    "Notcoin",
+    "Banana",
+    "Dragonz Land",
+    "Crypto Critters",
+    "Token Tycoon",
+    "Golden Goose",
+    "Pixel Pirates",
+    "Puffin Prodigy",
+    "Peanut Coin",
+    "Rocket Raccoon",
+    "Diamond Diggers",
+    "Coin Climber",
+    "Berry Bank",
+    "Gem Gamers",
+    "Pixel Pets",
+    "Token Toss",
+    "Space Seeds",
+    "Coin Catcher",
+    "Prize Pop",
+    "Lucky Lemur",
+    "Egg Empires"
+]
+
+
     start_fetch_and_write_sheet(search_queries= queries)
 
 
